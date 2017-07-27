@@ -1,0 +1,5979 @@
+[
+    {
+        "GUID": "teslasolarroofsetforlocalresidencesmarthomepensacola",
+        "pubDate": "2017-07-01T04:23:00.000Z",
+        "authors": [
+            {
+                "fullName": "Joseph Baucum",
+                "email": "Joseph Baucum"
+            }
+        ],
+        "url": "http://www.pnj.com/story/money/business/2017/06/30/tesla-solar-roof-set-local-residence-smart-home-pensacola/434081001/",
+        "title": "Tesla Solar Roof set for local residence Smart Home Pensacola.",
+        "source": "Pensacola News Journal",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.6140643,
+                "strength": 2.4613147,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.6825547,
+                "strength": 1.908161,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.43743858,
+                "strength": 1.7936964,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.61687714,
+                "strength": 1.7550313,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.6660438,
+                "strength": 1.6137367,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.6168771,
+                "strength": 0.9472559,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.42708334,
+                "strength": 0.6416927,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "AirPollution",
+                "score": 0.35584095,
+                "strength": 0.57898515,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Recycling",
+                "score": 0.47354168,
+                "strength": 0.5305504,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "DrinkingWater",
+                "score": 0.2525,
+                "strength": 0.48004657,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 1.4628975,
+                "strength": 8,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BodiesOfWater",
+                "score": -0.19083333,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Water1a",
+                "score": -0.4,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.028824,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BuildingEfficiency1a",
+                "score": 0.6825547,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_WeatherRisk1e",
+                "score": -0.11782703,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": 0.88510174,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_EnergyUse1b",
+                "score": 0.5,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.6825547,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 91.47872345569301,
+            "ProductIntegrityAndInnovation": 92.08278443109268
+        },
+        "sasb2Cats": {
+            "EnvironmentalSocialImpactsOnAssetsAndOperations": 24.006071787698506,
+            "EnergyManagement": 91.4765976509307,
+            "LifecycleImpactsOfProductsAndServices": 91.81856765098996
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslatosupplygridstorageforhousingcommunityinnottingham",
+        "pubDate": "2017-07-01T04:42:00.000Z",
+        "authors": [
+            {
+                "fullName": "Steve Hanley",
+                "email": "Steve Hanley"
+            }
+        ],
+        "url": "http://cleantechnica.com/2017/06/30/tesla-supply-grid-storage-housing-community-nottingham/",
+        "title": "Tesla To Supply Grid Storage For Housing Community In Nottingham.",
+        "source": "CleanTechnica",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.38714287,
+                "strength": 2.601413,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.39142862,
+                "strength": 1.9518564,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.13354167,
+                "strength": 1.9373331,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.3273611,
+                "strength": 1.8090069,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.14833333,
+                "strength": 1.711472,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.40250003,
+                "strength": 1.0104051,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.37000003,
+                "strength": 0.6815252,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "ClimateRisk",
+                "score": 0.3273611,
+                "strength": 0.4846048,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.47708336,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UtilitySiting1c",
+                "score": 0.3541667,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Community",
+                "score": 0.3560094,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.63666666,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_GHG2",
+                "score": 0.3541667,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.23666668,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CarbonFootprint",
+                "score": -0.6,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.55,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 80.74463389933608,
+            "EnvironmentAtmosphere": 36.81779214007217
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 75.6673552948182,
+            "EnergyManagement": 89.17691841845682,
+            "LifecycleImpactsOfProductsAndServices": 88.0158912818356
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslaexpandsmobileserviceprogramaheadofmodel3launch",
+        "pubDate": "2017-07-01T05:01:00.000Z",
+        "authors": [
+            {
+                "fullName": "Katie Burke",
+                "email": "Katie Burke"
+            }
+        ],
+        "url": "http://feedproxy.google.com/~r/autonews/BreakingNews/~3/4N-j1YmtEiU/tesla-service-mobile-model-3",
+        "title": "Tesla expands mobile service program ahead of Model 3 launch.",
+        "source": "Automotive News",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.39685625,
+                "strength": 1.0196708,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.39685625,
+                "strength": 1.0196708,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.11901519,
+                "strength": 0.92786515,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Upgrade",
+                "score": 0.12499998,
+                "strength": 0.5016665,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.9171055,
+                "strength": 14,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Rollout2",
+                "score": 1.038311,
+                "strength": 7,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Upgrade4",
+                "score": 0.93999994,
+                "strength": 3,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Recall2a",
+                "score": 0.138441,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 58.59517429742347,
+            "ProductIntegrityAndInnovation": 91.68663399745597
+        },
+        "sasb2Cats": {
+            "CustomerWelfare": 63.14801892683758,
+            "ProductQualityAndSafety": 63.14801892683758
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslamodel3monthishere",
+        "pubDate": "2017-07-01T20:51:00.000Z",
+        "authors": [
+            {
+                "fullName": "Zachary Shahan",
+                "email": "Zachary Shahan"
+            }
+        ],
+        "url": "http://cleantechnica.com/2017/07/01/tesla-model-3-month/",
+        "title": "Tesla Model 3 Month Is Here.",
+        "source": "CleanTechnica",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "ProductLifecycle",
+                "score": 0.256568,
+                "strength": 1.5052655,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a_High",
+                "score": -1.0516706,
+                "strength": 4,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": -1.0516706,
+                "strength": 4,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a",
+                "score": -1.0516706,
+                "strength": 4,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Rollout2",
+                "score": 0.492746,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.735,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SupplyChain": 0,
+            "ProductIntegrityAndInnovation": 83.87236682169633
+        },
+        "sasb2Cats": {
+            "SupplyChainManagement": 0,
+            "LifecycleImpactsOfProductsAndServices": 76.89686292501045
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "itmightbetimeforteslatogetoutofthecarbusiness",
+        "pubDate": "2017-07-02T14:13:00.000Z",
+        "authors": [
+            {
+                "fullName": "Matthew DeBord",
+                "email": "Matthew DeBord"
+            }
+        ],
+        "url": "http://www.businessinsider.com/it-might-be-time-for-tesla-to-get-out-of-the-car-business-2017-6",
+        "title": "It might be time for Tesla to get out of the car business.",
+        "source": "Business Insider",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.31256303,
+                "strength": 1.7108321,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.31256303,
+                "strength": 1.7108321,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.47109208,
+                "strength": 1.5991827,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "NewProductDev",
+                "score": -0.40928614,
+                "strength": 1.3356901,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.66198754,
+                "strength": 1.310429,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.31256303,
+                "strength": 0.72238386,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": -0.140275,
+                "strength": 0.6716299,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_P",
+                "score": -1.152978,
+                "strength": 0.5477699,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_SI",
+                "score": -1.152978,
+                "strength": 0.5477699,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.43153763,
+                "strength": 0.50130063,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -1.5527529,
+                "strength": 16,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.3,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": -1.752978,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.67389786,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": -1.752978,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": -0.4554125,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_TakeOver2",
+                "score": 0.22610219,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": 0.3,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": 0.24230373,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 82.2836336573476,
+            "CorporateGovernance": 73.84610250087941,
+            "ProductIntegrityAndInnovation": 0
+        },
+        "sasb2Cats": {
+            "LifecycleImpactsOfProductsAndServices": 80.62806098398197
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslasolarpanelnowonsale",
+        "pubDate": "2017-07-03T09:30:00.000Z",
+        "authors": [
+            {
+                "fullName": "Trade12",
+                "email": "Trade12"
+            }
+        ],
+        "url": "https://www.investing.com/analysis/tesla-solar-panel-now-on-sale-200198724",
+        "title": "Tesla Solar Panel Now On Sale.",
+        "source": "investing.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.4316023,
+                "strength": 1.9913031,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.4316023,
+                "strength": 1.9913031,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.09518102,
+                "strength": 1.8864816,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.09518101,
+                "strength": 1.783972,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.2672677,
+                "strength": 1.4592006,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.095181026,
+                "strength": 0.90116286,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.095181026,
+                "strength": 0.84479594,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.4316023,
+                "strength": 0.78849196,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.51301265,
+                "strength": 0.55507046,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_P",
+                "score": 0.54197425,
+                "strength": 0.47610953,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_SI",
+                "score": 0.54197425,
+                "strength": 0.47610953,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.1139383,
+                "strength": 5,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ShareholderRights4",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": 0.44721323,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.022797525,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 56.41978945304198,
+            "BusinessModel": 85.97450689255066,
+            "CorporateGovernance": 42.1350345373795
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 56.96462739507186,
+            "LifecycleImpactsOfProductsAndServices": 56.96462739507186
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "powerupelonmusksaysteslamodel3evproductionsettostartaheadoftime",
+        "pubDate": "2017-07-03T11:40:00.000Z",
+        "authors": [
+            {
+                "fullName": "Bill Roberson",
+                "email": "Bill Roberson"
+            }
+        ],
+        "url": "https://www.digitaltrends.com/dt-daily/power-elon-musk-says-tesla-model-3-ev-production-set-start-ahead-time/",
+        "title": "Power up: Elon Musk says Tesla Model 3 EV production set to start ahead of time.",
+        "source": "Digital Trends",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "Upgrade",
+                "score": 0.443841,
+                "strength": 0.66768396,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": -0.024066001,
+                "strength": 0.52101153,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Rollout2",
+                "score": -1.1664371,
+                "strength": 13,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.47397584,
+                "strength": 9,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": 0.085108,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Recall2a",
+                "score": 0.34297767,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "ProductIntegrityAndInnovation": 0
+        },
+        "sasb2Cats": {
+            "CustomerWelfare": 83.63046625388213,
+            "ProductQualityAndSafety": 83.63046625388213
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "altaclaimsitsredshiftmxhasbatterywithhighestenergydensitybetterthanteslamodelsx",
+        "pubDate": "2017-07-03T15:35:00.000Z",
+        "authors": [
+            {
+                "fullName": "Steve Hanley",
+                "email": "Steve Hanley"
+            }
+        ],
+        "url": "http://cleantechnica.com/2017/07/03/alta-claims-battery-highest-energy-density-better-model-s-x/",
+        "title": "Alta Claims Its Redshift MX Has Battery With Highest Energy Density, Better Than Tesla Model S & X.",
+        "source": "CleanTechnica",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.4125,
+                "strength": 1.571317,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Recycling",
+                "score": 0.768,
+                "strength": 1.0298536,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.19829926,
+                "strength": 0.6855166,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.19829927,
+                "strength": 0.6855166,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.53400004,
+                "strength": 0.6065671,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.53099996,
+                "strength": 0.57684344,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.53900003,
+                "strength": 0.56983197,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.53099996,
+                "strength": 0.5390832,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.69,
+                "strength": 4,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.31,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.3,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Packaging1c",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Water1a",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ChemicalsOfConcern1b",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "ProductIntegrityAndInnovation": 42.1350345373795,
+            "SocialImpact": 42.1350345373795
+        },
+        "sasb2Cats": {
+            "CustomerWelfare": 42.1350345373795,
+            "ProductQualityAndSafety": 42.1350345373795,
+            "LifecycleImpactsOfProductsAndServices": 81.3862579646314
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslaincsmodel3deliveriestobeginthismonth",
+        "pubDate": "2017-07-03T16:19:00.000Z",
+        "authors": [
+            {
+                "fullName": "newsfeedback@fool.com (Daniel Sparks)",
+                "email": "newsfeedback@fool.com (Daniel Sparks)"
+            }
+        ],
+        "url": "http://www.nwitimes.com/business/investment/markets-and-stocks/tesla-inc-s-model-deliveries-to-begin-this-month/article_64d9d4dd-820f-5d8a-96b1-8244d1bda4b0.html",
+        "title": "Tesla, Inc.'s Model 3 Deliveries to Begin This Month.",
+        "source": "NWI",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.028939372,
+                "strength": 1.0323293,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.028939372,
+                "strength": 1.0323293,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.1697156,
+                "strength": 0.5468413,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.7233307,
+                "strength": 7,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Upgrade4",
+                "score": 1.4842637,
+                "strength": 5,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ShareholderRights4",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.073933,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.073933,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": 0.334645,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "CorporateGovernance": 42.1350345373795,
+            "ProductIntegrityAndInnovation": 92.1350325540862
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmuskbeginsproducingvehiclethatcouldmakeorbreaktesla",
+        "pubDate": "2017-07-03T17:25:00.000Z",
+        "authors": [
+            {
+                "fullName": "Guest Post",
+                "email": "Guest Post"
+            }
+        ],
+        "url": "http://thelibertarianrepublic.com/elon-musk-begins-producing-vehicle-make-break-tesla/",
+        "title": "Elon Musk Begins Producing Vehicle That Could Make Or Break Tesla.",
+        "source": "thelibertarianrepublic.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.023684382,
+                "strength": 1.9683945,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.023684382,
+                "strength": 1.9683945,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.09977415,
+                "strength": 1.5275248,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.35316667,
+                "strength": 0.8063803,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "ShareholderValue",
+                "score": -0.4666667,
+                "strength": 0.7382325,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.1174998,
+                "strength": 5,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.6,
+                "strength": 3,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ApproveCEO2",
+                "score": 0.51403546,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.51403546,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 20.66016701916248,
+            "CorporateGovernance": 90.1465988165929
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmusksettogarner0085ofvehiclemarketbyseptember",
+        "pubDate": "2017-07-03T18:48:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "http://climatechangedispatch.com/elon-musk-set-to-garner-0-085-of-vehicle-market-by-september/",
+        "title": "Elon Musk set to garner 0.085% of vehicle market by September.",
+        "source": "climatechangedispatch.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.023684382,
+                "strength": 1.9169829,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.023684382,
+                "strength": 1.9169829,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.2660861,
+                "strength": 0.89481115,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.35316667,
+                "strength": 0.80209255,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_SI",
+                "score": -0.15001185,
+                "strength": 0.6022779,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_P",
+                "score": -0.15001185,
+                "strength": 0.6022779,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "ShareholderValue",
+                "score": -0.4666667,
+                "strength": 0.49929205,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.1174998,
+                "strength": 6,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.6,
+                "strength": 3,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ApproveCEO2",
+                "score": 0.51403546,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.51403546,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 27.729469654973286,
+            "CorporateGovernance": 90.1465988165929
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "dailybriefingatrumpandxiteslacarlaunchsiliconvalleysgrip",
+        "pubDate": "2017-07-03T20:27:00.000Z",
+        "authors": [
+            {
+                "fullName": "Siona Jenkins",
+                "email": "Siona Jenkins"
+            }
+        ],
+        "url": "https://www.ft.com/content/8bf53e6c-6003-11e7-91a7-502f7ee26895",
+        "title": "Daily briefing:A Trump and Xi; Tesla car launch; Silicon Valley's grip.",
+        "source": "Financial Times - Companies",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.08754921,
+                "strength": 1.7401307,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.08754921,
+                "strength": 1.7401307,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.14505634,
+                "strength": 1.603401,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": -0.30264473,
+                "strength": 1.556284,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.14505635,
+                "strength": 1.5457165,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "TaxEvasion",
+                "score": -0.21298,
+                "strength": 1.5099542,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.08928858,
+                "strength": 1.0944821,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.032837406,
+                "strength": 0.9638742,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.14505635,
+                "strength": 0.7372571,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Corruption",
+                "score": -0.009163363,
+                "strength": 0.6989715,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.14505635,
+                "strength": 0.6500819,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits",
+                "score": -0.20821658,
+                "strength": 0.58206826,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits_High",
+                "score": -0.20821658,
+                "strength": 0.58206826,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": -0.10999599,
+                "strength": 0.54703933,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_P",
+                "score": -0.22310756,
+                "strength": 0.5270181,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SoftDrinkJunk_SI",
+                "score": -0.22310756,
+                "strength": 0.5270181,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.29334757,
+                "strength": 0.50771666,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Lobbying",
+                "score": -0.20964533,
+                "strength": 0.4651622,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Rollout2",
+                "score": -1.0840466,
+                "strength": 7,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.40552002,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2",
+                "score": 0.029649004,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2_LI",
+                "score": 0.029649004,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BodiesOfWater",
+                "score": 1.700111,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_PublicProtests1a",
+                "score": -0.478283,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Resources1c",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -0.2738765,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents2a",
+                "score": -0.64221954,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.18075001,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_HumanRights3b",
+                "score": -0.64221954,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents3",
+                "score": -0.64221954,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.18075001,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "EnvironmentAtmosphere": 46.351530630757615,
+            "BusinessModel": 42.258947284341176,
+            "CorporateGovernance": 11.847954669461103,
+            "ProductIntegrityAndInnovation": 0,
+            "SocialImpact": 0
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 46.85526778856921,
+            "LifecycleImpactsOfProductsAndServices": 46.85526778856921,
+            "HumanRightsAndCommunityRelations": 0
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslamodel3whatweknowabouttheaffordableelectricdreammachine",
+        "pubDate": "2017-07-03T20:50:00.000Z",
+        "authors": [
+            {
+                "fullName": "Patrick May",
+                "email": "Patrick May"
+            }
+        ],
+        "url": "http://www.mercurynews.com/2017/07/03/tesla-model-3-what-we-know-about-the-affordable-electric-dream-machine/",
+        "title": "Tesla Model 3: What we know about the ‘affordable’ electric dream machine.",
+        "source": "mercurynews.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": 0.27670723,
+                "strength": 1.0500684,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": -0.7889001,
+                "strength": 0.7583506,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "TaxEvasion",
+                "score": -0.017265677,
+                "strength": 0.63119435,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.24957621,
+                "strength": 0.63040286,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.24957621,
+                "strength": 0.63040286,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "AffordHealthcare",
+                "score": 0.42828333,
+                "strength": 0.5449258,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "NewProductDev",
+                "score": 0.36224636,
+                "strength": 0.51743037,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.084526,
+                "strength": 14,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.7889,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": 0.464372,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": 0.5416668,
+                "strength": 1,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BodiesOfWater",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_TaxEvasion2",
+                "score": -0.35463274,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": -0.7889,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Resources1c",
+                "score": -0.49243,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_LandSoil",
+                "score": -0.49243,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": -0.7889,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 0,
+            "CorporateGovernance": 0,
+            "ProductIntegrityAndInnovation": 87.86247325251817
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslafacesslowdeliverieswhilemusktoutsthemodel3",
+        "pubDate": "2017-07-03T22:22:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "https://www.greentechmedia.com/articles/read/tesla-faces-slow-deliveries-while-musk-touts-the-model-3",
+        "title": "Tesla Faces Slow Deliveries, While Musk Touts the Model 3.",
+        "source": "Greentech Media",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.31813124,
+                "strength": 1.0359714,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.31813124,
+                "strength": 1.0359714,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.43312,
+                "strength": 0.57965,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.18523996,
+                "strength": 0.5563261,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "ProductLifecycle",
+                "score": -0.15753815,
+                "strength": 0.5294436,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.9622118,
+                "strength": 20,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ShareholderRights4",
+                "score": 0.265399,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": -0.18836617,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -0.725,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": -0.5197312,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "CorporateGovernance": 77.7140747350575,
+            "ProductIntegrityAndInnovation": 16.40475521184942
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmuskgets98percentemployeeapprovalrating",
+        "pubDate": "2017-07-04T02:22:00.000Z",
+        "authors": [
+            {
+                "fullName": "Steven Loveday",
+                "email": "Steven Loveday"
+            }
+        ],
+        "url": "http://insideevs.com/elon-musk-98-percent-employee-approval-rating/",
+        "title": "Elon Musk Gets 98 Percent Employee Approval Rating.",
+        "source": "Inside EVs",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "CollectiveBargaining",
+                "score": -0.27991298,
+                "strength": 1.7335685,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": 0.17072049,
+                "strength": 1.278367,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "StrikeAction",
+                "score": 0.17072049,
+                "strength": 1.0410602,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.0581891,
+                "strength": 1.0369681,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.34488094,
+                "strength": 0.97369885,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.3455303,
+                "strength": 0.97369885,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits",
+                "score": 0.1707205,
+                "strength": 0.75032103,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits_High",
+                "score": 0.1707205,
+                "strength": 0.75032103,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.8140355,
+                "strength": 5,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": 0.020381957,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BestWorkplace4c",
+                "score": 0.49,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ApproveCEO2",
+                "score": 0.51403546,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents3",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CollectiveLabor2b",
+                "score": -0.42961806,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Children1a",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 46.94113569735002,
+            "CorporateGovernance": 90.1465988165929
+        },
+        "sasb2Cats": {
+            "RecruitmentDevelopmentAndRetention": 89.6352518765571,
+            "LaborRelations": 0
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "firstteslamodel3forcustomertoleavefactoryon7thjuly",
+        "pubDate": "2017-07-04T03:52:00.000Z",
+        "authors": [
+            {
+                "fullName": "Conrad Doyle",
+                "email": "Conrad Doyle"
+            }
+        ],
+        "url": "http://naijaoversabi.com/2017/07/04/first-tesla-model-3-for-customer-to-leave-factory-on-7th.html",
+        "title": "First Tesla Model 3 for customer to leave factory on 7th July.",
+        "source": "naijaoversabi.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.24688122,
+                "strength": 1.6145713,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.2468812,
+                "strength": 1.6145713,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.2468812,
+                "strength": 0.9863012,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.1931912,
+                "strength": 0.51039207,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Rollout2",
+                "score": 2.0301733,
+                "strength": 6,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.78776455,
+                "strength": 5,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_WorkCondition",
+                "score": -0.532614,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -0.532614,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.10000001,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Children1a",
+                "score": -0.675,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents3",
+                "score": -0.675,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 0,
+            "BusinessModel": 73.23858730184926,
+            "ProductIntegrityAndInnovation": 92.13503448737671
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "contractorscontinueworkonwestplantsitewithgradingunderwayforroadcommerciallots",
+        "pubDate": "2017-07-04T04:18:00.000Z",
+        "authors": [
+            {
+                "fullName": "Lesli Bales-Sherrod leslib@thedailytimes.com",
+                "email": "Lesli Bales-Sherrod leslib@thedailytimes.com"
+            }
+        ],
+        "url": "http://www.thedailytimes.com/news/contractors-continue-work-on-west-plant-site-with-grading-underway/article_15e958c0-a524-5ea4-9a5c-9dd243c4502f.html",
+        "title": "Contractors continue work on West Plant site with grading underway for road, commercial lots.",
+        "source": "Daily Times",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "DrinkingWater",
+                "score": -0.19734335,
+                "strength": 1.5432928,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": -0.022311822,
+                "strength": 1.2137821,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.02481182,
+                "strength": 0.8407136,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.02481182,
+                "strength": 0.8407136,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WaterPollution_High",
+                "score": -0.13784947,
+                "strength": 0.83186364,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WaterPollution",
+                "score": -0.13784947,
+                "strength": 0.83186364,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Upgrade",
+                "score": 0.295552,
+                "strength": 0.52242184,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_LandSoil",
+                "score": -0.6540741,
+                "strength": 3,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_GovernmentSubsidies1b",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": 0.14391336,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_LandfillSoil",
+                "score": -0.6,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Resources1c",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Water1a",
+                "score": 0.49,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "EnvironmentLand": 0
+        },
+        "sasb2Cats": {
+            "WasteAndHazardousMaterialsManagement": 0,
+            "RegulatoryCaptureAndPoliticalInfluence": 42.1350345373795
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "jobcutsatmicrosoftteslatorolloutitsmodel3andchinasopeningupitsbondmarket",
+        "pubDate": "2017-07-04T06:59:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "http://themarketmogul.com/job-cuts-microsoft-tesla-roll-model-3-chinas-opening-bond-market/",
+        "title": "Job Cuts at Microsoft, Tesla to Roll out Its Model 3, and China’s Opening up Its Bond Market.",
+        "source": "themarketmogul.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.105407596,
+                "strength": 1.6800568,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.105407596,
+                "strength": 1.6800568,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": -0.060000002,
+                "strength": 1.4920689,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": -0.4278915,
+                "strength": 0.88843036,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "NewProductDev",
+                "score": 0.06486044,
+                "strength": 0.80267525,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FinRisk",
+                "score": 0.26974827,
+                "strength": 0.5715649,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": -0.22865486,
+                "strength": 0.51995337,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": 0.08303894,
+                "strength": 0.46576577,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Layoffs2b",
+                "score": -0.92980707,
+                "strength": 6,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.26188856,
+                "strength": 6,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": -0.8426633,
+                "strength": 3,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.51403546,
+                "strength": 1,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.4,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.51403546,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 0,
+            "BusinessModel": 12.705138637579424,
+            "ProductIntegrityAndInnovation": 51.627193257102775
+        },
+        "sasb2Cats": {
+            "RecruitmentDevelopmentAndRetention": 0
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "federalevtaxcreditphaseoutquarterforteslabecomingmoreclearsortofcleantechnica",
+        "pubDate": "2017-07-04T18:22:32.000Z",
+        "authors": [
+            {
+                "fullName": "Loren McDonald",
+                "email": "Loren McDonald"
+            }
+        ],
+        "url": "http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNG6nBZJEA7MI33CSoQuRXn1RGvTtA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779547250928&ei=Hv9bWZCyM5qihgGz94KgDw&url=https://cleantechnica.com/2017/07/04/federal-ev-tax-credit-phase-quarter-tesla-becoming-clear-sort/",
+        "title": "Federal EV Tax Credit Phaseout Quarter For Tesla Becoming More Clear (Sort Of) - CleanTechnica.",
+        "source": "cleantechnica",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": -0.13538976,
+                "strength": 1.1750362,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "TaxEvasion",
+                "score": 0.025599986,
+                "strength": 1.1515229,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "PredLendingDebtColl",
+                "score": 0.2197035,
+                "strength": 0.99556756,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": -0.037266687,
+                "strength": 0.88112426,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.27678058,
+                "strength": 0.67296696,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CollectiveLabor2b",
+                "score": -0.033525348,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.07248599,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": -0.033525348,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -0.033525348,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Supplier",
+                "score": -0.033525348,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 36.8011513187906,
+            "BusinessModel": 75.98969292140987,
+            "ProductIntegrityAndInnovation": 71.34467596605451
+        },
+        "sasb2Cats": {
+            "LaborRelations": 36.8011513187906
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "federalevtaxcreditphaseoutquarterforteslabecomingmoreclearsortof",
+        "pubDate": "2017-07-04T18:39:00.000Z",
+        "authors": [
+            {
+                "fullName": "Loren McDonald",
+                "email": "Loren McDonald"
+            }
+        ],
+        "url": "http://cleantechnica.com/2017/07/04/federal-ev-tax-credit-phase-quarter-tesla-becoming-clear-sort/",
+        "title": "Federal EV Tax Credit Phaseout Quarter For Tesla Becoming More Clear (Sort Of).",
+        "source": "CleanTechnica",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": -0.13538976,
+                "strength": 1.1750362,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "TaxEvasion",
+                "score": 0.025599986,
+                "strength": 1.1515229,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "PredLendingDebtColl",
+                "score": 0.2197035,
+                "strength": 0.99556756,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": -0.037266687,
+                "strength": 0.88112426,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.27678058,
+                "strength": 0.67296696,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CollectiveLabor2b",
+                "score": -0.033525348,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.07248599,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": -0.033525348,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -0.033525348,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Supplier",
+                "score": -0.033525348,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 36.8011513187906,
+            "BusinessModel": 75.98969292140987,
+            "ProductIntegrityAndInnovation": 71.34467596605451
+        },
+        "sasb2Cats": {
+            "LaborRelations": 36.8011513187906
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslamodel3releasecouldboostfirstmovercobaltpowertonewhighs",
+        "pubDate": "2017-07-05T06:28:00.000Z",
+        "authors": [
+            {
+                "fullName": "Jeb Handwerger",
+                "email": "Jeb Handwerger"
+            }
+        ],
+        "url": "https://www.investing.com/analysis/tesla-model-3-release-could-boost-first-mover-cobaltpower-$cpo.v-$cbbwf-200199114",
+        "title": "Tesla Model 3 Release Could Boost First Mover CobaltPower To New Highs.",
+        "source": "investing.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.17428745,
+                "strength": 1.614845,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.17428745,
+                "strength": 1.614845,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.378372,
+                "strength": 0.95524645,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": 0.10172405,
+                "strength": 0.78788245,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.49671742,
+                "strength": 0.7783064,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FinRisk",
+                "score": 0.13357338,
+                "strength": 0.7491007,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits",
+                "score": 0.09061291,
+                "strength": 0.7269076,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits_High",
+                "score": 0.09061291,
+                "strength": 0.7269076,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.20777774,
+                "strength": 0.7255174,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.275,
+                "strength": 0.64730775,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "ShareholderValue",
+                "score": 0.08730551,
+                "strength": 0.55897385,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.495,
+                "strength": 0.5427424,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 1.135848,
+                "strength": 8,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ChildLabor",
+                "score": 0.14534438,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": 0.14534438,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a",
+                "score": 0.14534438,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a_High",
+                "score": 0.14534438,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BusModel2",
+                "score": -0.03000001,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_EthicsFines2",
+                "score": 0.55,
+                "strength": 1,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ForcedLabor2a",
+                "score": -0.31250003,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_EthicsScandal3a",
+                "score": 0.55,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 68.3932148152472,
+            "SupplyChain": 64.08573633221965,
+            "SocialImpact": 28.51800333371277
+        },
+        "sasb2Cats": {
+            "FairLaborPractices": 29.0422744775448,
+            "SupplyChainManagement": 64.08573633221965,
+            "HumanRightsAndCommunityRelations": 29.0422744775448
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "leecochinasanswertonetflixappleandteslasuffersnewfinancialblow",
+        "pubDate": "2017-07-05T11:18:53.000Z",
+        "authors": [
+            {
+                "fullName": "Alistair Charlton",
+                "email": "Alistair Charlton"
+            }
+        ],
+        "url": "http://www.ibtimes.co.uk/leeco-chinas-answer-netflix-apple-tesla-suffers-new-financial-blow-1629055",
+        "title": "LeEco, China's answer to Netflix, Apple and Tesla, suffers new financial blow.",
+        "source": "IB Times Technology",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.3245255,
+                "strength": 1.6495568,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.3245255,
+                "strength": 1.6495568,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": -0.138871,
+                "strength": 1.01951,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": -0.06012299,
+                "strength": 0.8602203,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.9131485,
+                "strength": 6,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.24000001,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Layoffs2b",
+                "score": -0.735,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.23,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.34524563,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents3",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents2a",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ApproveCEO2",
+                "score": -0.24000001,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 0,
+            "BusinessModel": 15.592227172730155,
+            "CorporateGovernance": 8.987793642822453
+        },
+        "sasb2Cats": {
+            "RecruitmentDevelopmentAndRetention": 0
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "chinasversionofnasdaqunderpressureasleecofinancialcrisisspillsovertolistedarm",
+        "pubDate": "2017-07-05T13:04:05.000Z",
+        "authors": [
+            {
+                "fullName": "Xie Yu",
+                "email": "Xie Yu"
+            }
+        ],
+        "url": "http://www.scmp.com/business/companies/article/2101419/chinas-version-nasdaq-under-pressure-leeco-financial-crisis",
+        "title": "China’s version of Nasdaq under pressure as LeEco financial crisis spills over to listed arm.",
+        "source": "South China Morning Post",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.45227098,
+                "strength": 1.6507113,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.45227098,
+                "strength": 1.6507113,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "ShareholderValue",
+                "score": -0.43941385,
+                "strength": 1.567214,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FinRisk",
+                "score": -0.33685848,
+                "strength": 1.5408158,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": -0.1817958,
+                "strength": 1.2887247,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "PredLendingDebtColl",
+                "score": -0.37476155,
+                "strength": 0.8414637,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SystemicRisk",
+                "score": -0.40632302,
+                "strength": 0.82846224,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SystemicRisk_High",
+                "score": -0.40632302,
+                "strength": 0.82846224,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": -0.48264948,
+                "strength": 0.63974684,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.43517938,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BusModel2",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a_High",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 5.822002635120214,
+            "SupplyChain": 42.1350345373795,
+            "CorporateGovernance": 0,
+            "ProductIntegrityAndInnovation": 0.39180502719362664
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "otherwomenhavecomplainedofsexualharassmentattesla",
+        "pubDate": "2017-07-05T17:40:35.000Z",
+        "authors": [
+            {
+                "fullName": "Levi Sumagaysay",
+                "email": "Levi Sumagaysay"
+            }
+        ],
+        "url": "http://www.siliconbeat.com/2017/07/05/127081/",
+        "title": "Other women have complained of sexual harassment at Tesla.",
+        "source": "Siliconbeat",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.08300069,
+                "strength": 1.5319409,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.08300069,
+                "strength": 1.5319409,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "DiscrimEmployee",
+                "score": -0.41325817,
+                "strength": 1.3212634,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.10198883,
+                "strength": 0.5804775,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": -0.11024225,
+                "strength": 0.51788867,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_WorkplaceDiversity3b",
+                "score": -0.11819929,
+                "strength": 7,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": 0.39267206,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.4645,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.4645,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 23.952930835267992
+        },
+        "sasb2Cats": {
+            "DiversityAndInclusion": 23.952930835267992
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "putting47100tesladeliveriesinh12017intoperspectivecleantechnica",
+        "pubDate": "2017-07-05T20:08:28.000Z",
+        "authors": [
+            {
+                "fullName": "Zachary Shahan",
+                "email": "Zachary Shahan"
+            }
+        ],
+        "url": "http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHhH5HljbcqIuCk9-urJajwJXcnwA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779547250928&ei=D1ldWcjcA46ZhQHFp4zYDg&url=https://cleantechnica.com/2017/07/05/putting-47100-tesla-deliveries-h1-2017-perspective/",
+        "title": "Putting 47100 Tesla Deliveries In H1 2017 Into Perspective - CleanTechnica.",
+        "source": "cleantechnica",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": -0.103283346,
+                "strength": 0.7840221,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.77546656,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": -0.435,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2_LI",
+                "score": 0.3,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2",
+                "score": 0.3,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.3,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.3,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "EnvironmentAtmosphere": 77.9361923439761
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 80.62806098398197,
+            "LifecycleImpactsOfProductsAndServices": 80.62806098398197
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "putting47100tesladeliveriesinh12017intoperspective",
+        "pubDate": "2017-07-05T20:15:00.000Z",
+        "authors": [
+            {
+                "fullName": "Zachary Shahan",
+                "email": "Zachary Shahan"
+            }
+        ],
+        "url": "http://cleantechnica.com/2017/07/05/putting-47100-tesla-deliveries-h1-2017-perspective/",
+        "title": "Putting 47,100 Tesla Deliveries In H1 2017 Into Perspective.",
+        "source": "CleanTechnica",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": -0.103283346,
+                "strength": 0.78359604,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.77546656,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": -0.435,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2_LI",
+                "score": 0.3,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2",
+                "score": 0.3,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.3,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.3,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "EnvironmentAtmosphere": 77.9361923439761
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 80.62806098398197,
+            "LifecycleImpactsOfProductsAndServices": 80.62806098398197
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslastocktumbles7percentassalesstall",
+        "pubDate": "2017-07-05T20:32:00.000Z",
+        "authors": [
+            {
+                "fullName": "Dana Hull",
+                "email": "Dana Hull"
+            }
+        ],
+        "url": "http://www.msn.com/en-ca/money/companies/tesla-stock-tumbles-7-percent-as-sales-stall/ar-BBDNQOL?li=AAgh0dA",
+        "title": "Tesla stock tumbles 7 percent as sales stall.",
+        "source": "MSN",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.085916206,
+                "strength": 1.7379556,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.085916206,
+                "strength": 1.7379556,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "PredLendingDebtColl",
+                "score": 0.19442002,
+                "strength": 1.6411346,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": -0.034727015,
+                "strength": 1.5833919,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.06271587,
+                "strength": 0.6730586,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BusModel2",
+                "score": 0.5507311,
+                "strength": 7,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.1761567,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.49,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": 0.494958,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a",
+                "score": 0.494958,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.2,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.10000001,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChain2a_High",
+                "score": 0.494958,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 40.001984433596704,
+            "SupplyChain": 89.74892094473554,
+            "ProductIntegrityAndInnovation": 68.56107425000843
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslasdiversitypaneluncoversmoretalesofsiliconvalleysexismupdated",
+        "pubDate": "2017-07-05T22:34:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "https://www.engadget.com/2017/07/05/tesla-uncovers-more-silicon-valley-sexism/",
+        "title": "Tesla's diversity panel uncovers more tales of Silicon Valley sexism (updated).",
+        "source": "Engadget",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "DiscrimEmployee",
+                "score": -0.34781638,
+                "strength": 2.069706,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.23342392,
+                "strength": 1.5277394,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.23342392,
+                "strength": 1.5277394,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": -0.36928543,
+                "strength": 0.88819045,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FalseClaims",
+                "score": -0.23342392,
+                "strength": 0.78133523,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CollectiveBargaining",
+                "score": -0.47577497,
+                "strength": 0.71535254,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": -0.475775,
+                "strength": 0.5877867,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": -0.39590782,
+                "strength": 0.5822235,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits",
+                "score": -0.4921812,
+                "strength": 0.50069,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "CompBenefits_High",
+                "score": -0.4921812,
+                "strength": 0.50069,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_WorkplaceDiversity3b",
+                "score": -1.2407887,
+                "strength": 8,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -1.2407887,
+                "strength": 4,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Layoffs2b",
+                "score": -0.47577497,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.47420466,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_AuditInvestigate",
+                "score": -0.47577497,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 0
+        },
+        "sasb2Cats": {
+            "DiversityAndInclusion": 0,
+            "RecruitmentDevelopmentAndRetention": 0
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "watchateslamodel3cometolifeinsomeonesdrivewayusingios11ontheiphone",
+        "pubDate": "2017-07-06T00:28:00.000Z",
+        "authors": [
+            {
+                "fullName": "Chris Smith",
+                "email": "Chris Smith"
+            }
+        ],
+        "url": "http://bgr.com/2017/07/05/iphone-8-features-augmented-reality-ios-11-arkit-model-3/",
+        "title": "Watch a Tesla Model 3 come to life in someone’s driveway using iOS 11 on the iPhone.",
+        "source": "BGR",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.469221,
+                "strength": 0.83563375,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_CW",
+                "score": -0.4081245,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_HR",
+                "score": -0.4081245,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SI",
+                "score": -0.4081245,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SM",
+                "score": -0.4081245,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_P",
+                "score": -0.4081245,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 87.4460630906515,
+            "ProductIntegrityAndInnovation": 0,
+            "SocialImpact": 0
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "bitcoinandteslainvestorsshouldcarefullyreadthefedsminutes",
+        "pubDate": "2017-07-06T00:39:00.000Z",
+        "authors": [
+            {
+                "fullName": "Panos Mourdoukoutas",
+                "email": "Panos Mourdoukoutas"
+            }
+        ],
+        "url": "http://www.forbes.com/sites/panosmourdoukoutas/2017/07/05/bitcoin-and-tesla-investors-should-carefully-read-the-feds-minutes/",
+        "title": "Bitcoin And Tesla Investors Should Carefully Read The Fed's Minutes.",
+        "source": "Forbes Business",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "FinRisk",
+                "score": -0.10666666,
+                "strength": 1.2244306,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.5447065,
+                "strength": 0.8771162,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.5447065,
+                "strength": 0.8771162,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "PredLendingDebtColl",
+                "score": 0.44480434,
+                "strength": 0.62625253,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 27.29697019414256,
+            "ProductIntegrityAndInnovation": 87.16148434359427
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "threebigcarsgettopiihscrashratingnottesla",
+        "pubDate": "2017-07-06T06:28:54.000Z",
+        "authors": [
+            {
+                "fullName": "Diana Kruzman",
+                "email": "Diana Kruzman"
+            }
+        ],
+        "url": "http://rssfeeds.usatoday.com/~/387704872/0/usatodaycommoney-topstories~Three-big-cars-get-top-IIHS-crash-rating-not-Tesla/",
+        "title": "Three big cars get top IIHS crash rating -- not Tesla.",
+        "source": "USA Today Money",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "FinStressTest",
+                "score": -0.41450432,
+                "strength": 0.54454184,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 4.837483,
+                "strength": 15,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_CW",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_P",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_HR",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SI",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SM",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Recall2a",
+                "score": 0.8752165,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.321073,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.321073,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "ProductIntegrityAndInnovation": 92.13503393066809,
+            "SocialImpact": 92.1350344873795
+        },
+        "sasb2Cats": {
+            "CustomerWelfare": 92.11184261518363,
+            "ProductQualityAndSafety": 92.11184261518363,
+            "HumanRightsAndCommunityRelations": 92.1350344873795
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "investmentmasterclassqanancypfunddblpartnerspartii",
+        "pubDate": "2017-07-06T10:15:00.000Z",
+        "authors": [
+            {
+                "fullName": "Andy Colthorpe",
+                "email": "Andy Colthorpe"
+            }
+        ],
+        "url": "https://www.energy-storage.news/blogs/investment-masterclass-qa-nancy-pfund-dbl-partners-part-ii",
+        "title": "Investment masterclass Q&A: Nancy Pfund, DBL Partners - Part II.",
+        "source": "energy-storage.news",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.23306175,
+                "strength": 2.1545098,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.7893656,
+                "strength": 1.7172092,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.32692426,
+                "strength": 1.6205981,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.32692426,
+                "strength": 1.6205981,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.2953403,
+                "strength": 1.6159018,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.2817483,
+                "strength": 1.6156573,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.27370182,
+                "strength": 1.557837,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.20000002,
+                "strength": 1.3796898,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.32816753,
+                "strength": 1.0073973,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.42208335,
+                "strength": 0.9774644,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.5645659,
+                "strength": 0.703688,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "NewProductDev",
+                "score": 0.2908268,
+                "strength": 0.6709914,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Lobbying",
+                "score": 0.27241033,
+                "strength": 0.53293586,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FinRisk",
+                "score": 0.29459375,
+                "strength": 0.49714714,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": 0.46934378,
+                "strength": 0.4840045,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.98568106,
+                "strength": 4,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 2.035266,
+                "strength": 4,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.41478264,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CreateJobs",
+                "score": 0.38050643,
+                "strength": 2,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 85.73490034454032,
+            "SustainableEnergyUseAndProduction": 77.26828528184592,
+            "BusinessModel": 80.07571544902413
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 76.59461100749385,
+            "LifecycleImpactsOfProductsAndServices": 83.70893574507642
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslaresponsetoiihscrashtestisirresponsibleanduncalledfor",
+        "pubDate": "2017-07-06T14:19:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "http://www.forbes.com/sites/samabuelsamid/2017/07/06/tesla-response-to-iihs-crash-test-is-irresponsible-and-uncalled-for/",
+        "title": "Tesla Response To IIHS Crash Test Is Irresponsible And Uncalled For.",
+        "source": "Forbes - Autos",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "FinStressTest",
+                "score": 0.51,
+                "strength": 1.5946612,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.37860128,
+                "strength": 1.1589136,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.37860128,
+                "strength": 1.1589136,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.12014202,
+                "strength": 0.5070908,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": -0.14976,
+                "strength": 0.46362257,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_DevelopProd4",
+                "score": 2.7153099,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SM",
+                "score": 2.9653099,
+                "strength": 9,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_HR",
+                "score": 2.9653099,
+                "strength": 9,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_CW",
+                "score": 2.9653099,
+                "strength": 9,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_P",
+                "score": 2.9653099,
+                "strength": 9,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SI",
+                "score": 2.9653099,
+                "strength": 9,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Upgrade4",
+                "score": -0.044290066,
+                "strength": 6,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.25537962,
+                "strength": 5,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelTransport",
+                "score": 0.45000002,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": -0.94929,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": -0.24929,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": -0.24929,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Product3",
+                "score": -0.7,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "ProductIntegrityAndInnovation": 92.13479116683604,
+            "SocialImpact": 92.1350344873795
+        },
+        "sasb2Cats": {
+            "FuelManagement": 88.54200843923138
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "multipleteslaemployeesallegeworkplaceharassmentdiscrimination",
+        "pubDate": "2017-07-06T14:46:00.000Z",
+        "authors": [
+            {
+                "fullName": "Avery Thompson",
+                "email": "Avery Thompson"
+            }
+        ],
+        "url": "http://www.popularmechanics.com/cars/hybrid-electric/a27190/tesla-harassment-claims/",
+        "title": "Multiple Tesla Employees Allege Workplace Harassment, Discrimination.",
+        "source": "Popular Mechanics",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "DiscrimEmployee",
+                "score": -0.285,
+                "strength": 1.8727338,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.44787502,
+                "strength": 1.1083015,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.44787502,
+                "strength": 1.1083015,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.053675015,
+                "strength": 0.8818387,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Corruption",
+                "score": -0.49555418,
+                "strength": 0.8141614,
+                "polarity": "negative"
+            },
+            {
+                "type": "Concept",
+                "title": "OccHazard",
+                "score": -0.35849437,
+                "strength": 0.54422295,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.44787496,
+                "strength": 0.49253255,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.78139,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.5,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Workers",
+                "score": -0.71366245,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_AuditInvestigate",
+                "score": -0.14564818,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "HumanCapital": 4.849354990940029,
+            "BusinessModel": 13.407321494832011
+        },
+        "sasb2Cats": {},
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "threebigcarsgettopiihscrashratingnottesla",
+        "pubDate": "2017-07-06T16:24:51.000Z",
+        "authors": [
+            {
+                "fullName": "Diana Kruzman",
+                "email": "Diana Kruzman"
+            }
+        ],
+        "url": "http://rssfeeds.usatoday.com/~/387704872/0/usatodaycommoney-topstories~Three-big-cars-get-top-IIHS-crash-rating-%e2%80%94-not-Tesla/",
+        "title": "Three big cars get top IIHS crash rating — not Tesla.",
+        "source": "USA Today Money",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "FinStressTest",
+                "score": -0.41450432,
+                "strength": 0.489667,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 5.232483,
+                "strength": 17,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SM",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_HR",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_CW",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_P",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SI",
+                "score": 2.2097893,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Recall2a",
+                "score": 0.8752165,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.395,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.321073,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.321073,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "ProductIntegrityAndInnovation": 92.13503393066809,
+            "SocialImpact": 92.1350344873795
+        },
+        "sasb2Cats": {
+            "CustomerWelfare": 92.11184261518363,
+            "ProductQualityAndSafety": 92.11184261518363,
+            "HumanRightsAndCommunityRelations": 92.1350344873795
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "thetopteslashareholderstsla",
+        "pubDate": "2017-07-06T17:36:00.000Z",
+        "authors": [
+            {
+                "fullName": "Steven Nickolas",
+                "email": "Steven Nickolas"
+            }
+        ],
+        "url": "http://www.investopedia.com/articles/insights/052616/top-4-tesla-shareholders-tsla.asp",
+        "title": "The Top Tesla Shareholders (TSLA).",
+        "source": "Investopedia",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.51012534,
+                "strength": 2.09053,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.80639905,
+                "strength": 1.6091917,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.806399,
+                "strength": 1.6091917,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "ShareholderValue",
+                "score": 0.425,
+                "strength": 1.5563967,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.51012534,
+                "strength": 1.5289532,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.7796,
+                "strength": 1.3267146,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.806399,
+                "strength": 1.2524261,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.51012534,
+                "strength": 1.2244215,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.51012534,
+                "strength": 1.088767,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.55282336,
+                "strength": 1.0268089,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0,
+                "strength": 0.6556305,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.5372442,
+                "strength": 0.5941462,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.410868,
+                "strength": 4,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2",
+                "score": -0.028824,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.6,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.48653552,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": 0.600857,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2_LI",
+                "score": -0.028824,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.4,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "EnvironmentAtmosphere": 38.03544512660989,
+            "BusinessModel": 42.1350345373795,
+            "CorporateGovernance": 87.67849115410192
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 37.545555276904835,
+            "LifecycleImpactsOfProductsAndServices": 37.545555276904835
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "bestwaytoplanforteslamodel3rentanelectriccar",
+        "pubDate": "2017-07-06T18:06:00.000Z",
+        "authors": [
+            {
+                "fullName": "Zachary Shahan",
+                "email": "Zachary Shahan"
+            }
+        ],
+        "url": "https://cleantechnica.com/2017/07/06/best-way-plan-tesla-model-3-rent-electric-car/",
+        "title": "Best Way To Plan For Tesla Model 3 — Rent An Electric Car.",
+        "source": "CleanTechnica",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.55,
+                "strength": 0.742222,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 1.4284472,
+                "strength": 11,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UtilitySiting1c",
+                "score": 0.22405739,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_MilitarySecurity2b",
+                "score": -0.13666666,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 89.66019302761094,
+            "SupplyChain": 21.36542079931669,
+            "SocialImpact": 20.587759970467584
+        },
+        "sasb2Cats": {
+            "HumanRightsAndCommunityRelations": 21.36542079931669
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslainctslastockcantsustainitscurrentgrowthrate",
+        "pubDate": "2017-07-06T18:51:00.000Z",
+        "authors": [
+            {
+                "fullName": "Chris MacDonald",
+                "email": "Chris MacDonald"
+            }
+        ],
+        "url": "http://investorplace.com/2017/07/tesla-inc-tsla-stock-cant-sustain-current-growth-rate/",
+        "title": "Tesla Inc (TSLA) Stock Can’t Sustain its Current Growth Rate.",
+        "source": "Investor Place",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "ShareholderValue",
+                "score": 0.32059553,
+                "strength": 1.7221212,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.08335709,
+                "strength": 1.6395192,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.08335712,
+                "strength": 1.6395192,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FinRisk",
+                "score": -0.074568525,
+                "strength": 1.4038005,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "CorpGov",
+                "score": 0.042730622,
+                "strength": 1.2673748,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "BusModel",
+                "score": 0.53784114,
+                "strength": 0.60066307,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.60596764,
+                "strength": 0.53641987,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ShareholderRights4",
+                "score": 0.062680006,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.8836881,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_EcoFriendlyProducts2a",
+                "score": 0.6790001,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.6,
+                "strength": 1,
+                "polarity": "positive"
+            }
+        ],
+        "tvl2Cats": {
+            "BusinessModel": 71.73090922147087,
+            "CorporateGovernance": 69.96761731061798,
+            "ProductIntegrityAndInnovation": 91.53955872376733
+        },
+        "sasb2Cats": {
+            "LifecycleImpactsOfProductsAndServices": 91.80465014982764
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslatakesahitininsuranceindustrycrashtest",
+        "pubDate": "2017-07-06T22:03:00.000Z",
+        "authors": [
+            {
+                "fullName": "Louis Hansen",
+                "email": "Louis Hansen"
+            }
+        ],
+        "url": "http://www.mercurynews.com/2017/07/06/tesla-takes-a-hit-in-insurance-industry-crash-test/",
+        "title": "Tesla takes a hit in insurance industry crash test.",
+        "source": "mercurynews.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.27852675,
+                "strength": 0.6971854,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.27852675,
+                "strength": 0.6971854,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 3.5780845,
+                "strength": 19,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SM",
+                "score": 3.555999,
+                "strength": 13,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_HR",
+                "score": 3.555999,
+                "strength": 13,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_CW",
+                "score": 3.555999,
+                "strength": 13,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_P",
+                "score": 3.555999,
+                "strength": 13,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SI",
+                "score": 3.555999,
+                "strength": 13,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_EthicalPricing2a",
+                "score": 0.55,
+                "strength": 3,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Packaging1c",
+                "score": 0.49,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.44500002,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.0211605,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "MarketingPractices": 89.66019302761094
+        },
+        "sasb2Cats": {
+            "AccessAndAffordability": 90.74469454251377
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslawillbuildtheworldslargestlithiumionbatterytokeepthelightsoninsouthaustralia",
+        "pubDate": "2017-07-07T02:37:00.000Z",
+        "authors": [
+            {
+                "fullName": "Sarah Kimmorley",
+                "email": "Sarah Kimmorley"
+            }
+        ],
+        "url": "https://www.businessinsider.com.au/tesla-battery-south-australia-2017-7",
+        "title": "Tesla will build the world’s largest lithium ion battery to keep the lights on in South Australia.",
+        "source": "Business Insider",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.19078574,
+                "strength": 2.5279772,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.69678617,
+                "strength": 1.9214476,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.19104548,
+                "strength": 1.817524,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.19150001,
+                "strength": 1.765723,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.6967862,
+                "strength": 1.7574055,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.84999996,
+                "strength": 0.6749029,
+                "polarity": "positive"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.5548937,
+                "strength": 0.50081587,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.91712976,
+                "strength": 12,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 1.4924405,
+                "strength": 8,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 1.9510261,
+                "strength": 7,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.34210694,
+                "strength": 5,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.5435725,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BuildingEfficiency1a",
+                "score": 0.25540105,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UtilitySiting1c",
+                "score": -0.061811112,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.5435725,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Supplier",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": -0.079375006,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 87.74909863120035
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 92.03628860928575,
+            "LifecycleImpactsOfProductsAndServices": 91.500658338217
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslawinscontractinaustraliafortheworldsbiggestlithiumionbattery",
+        "pubDate": "2017-07-07T03:25:49.000Z",
+        "authors": [
+            {
+                "fullName": "Johnny Lieu",
+                "email": "Johnny Lieu"
+            }
+        ],
+        "url": "http://feeds.mashable.com/~r/Mashable/~3/S8vsHNN_-Bg/",
+        "title": "Tesla wins contract in Australia for 'the world's biggest lithium-ion battery'.",
+        "source": "Mashable",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.13413623,
+                "strength": 2.1232128,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": -0.12666668,
+                "strength": 1.642048,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.13413624,
+                "strength": 1.511574,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.13413624,
+                "strength": 1.5103834,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.13413624,
+                "strength": 1.3598534,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 49.33807743313921
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 42.730999408950424,
+            "LifecycleImpactsOfProductsAndServices": 22.75446825278586
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "australianstatepicksteslatoprovidegridscalebattery",
+        "pubDate": "2017-07-07T03:45:15.000Z",
+        "authors": [
+            {
+                "fullName": "",
+                "email": ""
+            }
+        ],
+        "url": "http://feeds.reuters.com/~r/reuters/companyNews/~3/TZPt3z4ehzA/australia-power-tesla-idUSL4N1JY1MS",
+        "title": "Australian state picks Tesla to provide grid-scale battery.",
+        "source": "Reuters Companies",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": -0.1850965,
+                "strength": 2.2366161,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": -0.1850965,
+                "strength": 1.616499,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": -0.1850965,
+                "strength": 1.5588288,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": -0.1850965,
+                "strength": 1.5162075,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": -0.1850965,
+                "strength": 1.5104381,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": -0.462504,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 15.961064927400216
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 15.088318183098565,
+            "LifecycleImpactsOfProductsAndServices": 15.088318183098565
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslatobuildworldsbiggestlithiumionbatteryinsouthaustralia",
+        "pubDate": "2017-07-07T03:51:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "https://www.theguardian.com/australia-news/2017/jul/07/tesla-to-build-worlds-biggest-lithium-ion-battery-in-south-australia",
+        "title": "Tesla to build world's biggest lithium ion battery in South Australia.",
+        "source": "guardian.co.uk - Renewables",
+        "sourceType": "XIGNITE",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.43805104,
+                "strength": 2.6264384,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.03954444,
+                "strength": 1.9632429,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.44500002,
+                "strength": 1.9510262,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.43826184,
+                "strength": 1.8570528,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.28323528,
+                "strength": 1.7414892,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.44500002,
+                "strength": 1.5773151,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.43826184,
+                "strength": 1.090363,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "ClimateRisk",
+                "score": 0.44500002,
+                "strength": 0.46775478,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 1.5016541,
+                "strength": 4,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Rollout2",
+                "score": 0.4,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Climate",
+                "score": 0.454,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_GHG2",
+                "score": 0.454,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BuildingEfficiency1a",
+                "score": 0.3604495,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.522,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.01,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_SupplyChainShort",
+                "score": 0.495,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.19394694,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 79.68896883885766,
+            "EnvironmentAtmosphere": 86.71427356733582,
+            "ProductIntegrityAndInnovation": 77.29247745083558
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 88.52618960989747,
+            "EnergyManagement": 91.17007234678212,
+            "LifecycleImpactsOfProductsAndServices": 70.94914952077626
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslatobuildgiantbatteryinaustraliaamidenergycrisis",
+        "pubDate": "2017-07-07T05:30:03.000Z",
+        "authors": [
+            {
+                "fullName": "KRISTEN GELINEAU",
+                "email": "KRISTEN GELINEAU"
+            }
+        ],
+        "url": "http://www.seattletimes.com/business/tesla-to-build-giant-battery-in-australia-amid-energy-crisis/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_business",
+        "title": "Tesla to build giant battery in Australia amid energy crisis.",
+        "source": "Seattle Times Business",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": -0.0683445,
+                "strength": 2.4681945,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.38844445,
+                "strength": 1.8108456,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.38266668,
+                "strength": 1.7865168,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": -0.06834451,
+                "strength": 1.7228994,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": -0.29000002,
+                "strength": 1.702475,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": -0.29,
+                "strength": 0.6916322,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.9096109,
+                "strength": 6,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": -0.84058106,
+                "strength": 2,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.4,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.4,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 40.44684222542043
+        },
+        "sasb2Cats": {
+            "EnvironmentalSocialImpactsOnAssetsAndOperations": 0,
+            "EnergyManagement": 31.363173174520664,
+            "LifecycleImpactsOfProductsAndServices": 31.36317240590165
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmuskisinadelaide",
+        "pubDate": "2017-07-07T05:56:00.000Z",
+        "authors": [
+            {
+                "fullName": "Amy Huff",
+                "email": "Amy Huff"
+            }
+        ],
+        "url": "http://nolopodrasdejardever.com/2017/07/elon-musk-is-in-adelaide/",
+        "title": "Elon Musk is in Adelaide.",
+        "source": "nolopodrasdejardever.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.1349182,
+                "strength": 2.5726151,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.13491821,
+                "strength": 1.7888249,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.08318953,
+                "strength": 1.7733539,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.1349182,
+                "strength": 1.751653,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.083189555,
+                "strength": 1.7138904,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.08318955,
+                "strength": 0.6897559,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.124117024,
+                "strength": 6,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UtilitySiting1c",
+                "score": 0.20349203,
+                "strength": 4,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.3459656,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": -0.079375006,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BoardCEO2",
+                "score": 0.01,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 58.39022632364886
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 69.53542811224591,
+            "LifecycleImpactsOfProductsAndServices": 55.16918401195537
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmusksteslatobuildworldslargestbatteryinaustralia",
+        "pubDate": "2017-07-07T06:14:30.000Z",
+        "authors": [
+            {
+                "fullName": "",
+                "email": ""
+            }
+        ],
+        "url": "http://www.channelnewsasia.com/news/asiapacific/elon-musk-s-tesla-to-build-world-s-largest-battery-in-australia-9012264",
+        "title": "Elon Musk's Tesla to build world's largest battery in Australia.",
+        "source": "Channel New Asia",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.370392,
+                "strength": 2.5504336,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": -0.056399565,
+                "strength": 2.1907978,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.36816978,
+                "strength": 1.8300531,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": -0.056399565,
+                "strength": 1.8197916,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.36372533,
+                "strength": 1.7450044,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "AirPollution",
+                "score": -0.056399565,
+                "strength": 0.62674296,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.36658242,
+                "strength": 0.5239886,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Recycling",
+                "score": -0.07068529,
+                "strength": 0.4848632,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": -0.4889933,
+                "strength": 4,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2",
+                "score": 0.28558803,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.685588,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ReduceEmissions2_LI",
+                "score": 0.28558803,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_GHG2",
+                "score": -0.39149326,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.28558803,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 76.40610222361767,
+            "EnvironmentAtmosphere": 58.017774327547976
+        },
+        "sasb2Cats": {
+            "GHGEmissions": 59.800949231759674,
+            "EnergyManagement": 89.25593868760495,
+            "LifecycleImpactsOfProductsAndServices": 82.58314507596359
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslatobuildhistoriclargebattery",
+        "pubDate": "2017-07-07T06:17:15.000Z",
+        "authors": [
+            {
+                "fullName": "",
+                "email": ""
+            }
+        ],
+        "url": "http://www.bbc.co.uk/news/world-australia-40527784",
+        "title": "Tesla to build 'historic' large battery.",
+        "source": "BBC Business",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": -0.034796495,
+                "strength": 2.52722,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": -0.034796495,
+                "strength": 1.7889158,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": -0.034796495,
+                "strength": 1.7585151,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": -0.20433293,
+                "strength": 1.7207978,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": -0.20433293,
+                "strength": 1.7014471,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.40000004,
+                "strength": 0.5067806,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.462422,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": -0.07999998,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.4,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 24.415718584818052
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 36.60019116206842,
+            "LifecycleImpactsOfProductsAndServices": 72.514428861084
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "teslamodelsfallsshortincrashtestyetagain",
+        "pubDate": "2017-07-07T07:24:00.000Z",
+        "authors": [
+            {
+                "fullName": null,
+                "email": null
+            }
+        ],
+        "url": "http://www.gdnonline.com/Details/223588/Tesla-Model-S-falls-short-in-crash-test-yet-again",
+        "title": "Tesla Model S falls short in crash test yet again.",
+        "source": "gdnonline.com",
+        "sourceType": "BING_SEARCH",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "FinStressTest",
+                "score": 0.08333333,
+                "strength": 1.1959317,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": -0.1292909,
+                "strength": 0.50768685,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": -0.1292909,
+                "strength": 0.50768685,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_CW",
+                "score": 0.7400632,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SI",
+                "score": 0.7400632,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_P",
+                "score": 0.7400632,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_HR",
+                "score": 0.7400632,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_InjuryAccident2_SM",
+                "score": 0.7400632,
+                "strength": 10,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": -0.31794798,
+                "strength": 7,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_AuditInvestigate",
+                "score": 0.245,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_RevenueCosts2",
+                "score": -0.18376625,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Recall2a",
+                "score": -0.64539903,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_StockPrice",
+                "score": 0.30623376,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": 0.09666667,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "ProductIntegrityAndInnovation": 49.092996278981275,
+            "SocialImpact": 92.03277031267243
+        },
+        "sasb2Cats": {
+            "CustomerWelfare": 0,
+            "ProductQualityAndSafety": 0,
+            "HumanRightsAndCommunityRelations": 91.98133426088842
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmuskrevealsplanstobuildtheworldslargestlithiumionbatteryinaustralia",
+        "pubDate": "2017-07-07T07:42:42.000Z",
+        "authors": [
+            {
+                "fullName": "Hyacinth Mascarenhas",
+                "email": "Hyacinth Mascarenhas"
+            }
+        ],
+        "url": "http://www.ibtimes.co.uk/elon-musk-reveals-plans-build-worlds-largest-lithium-ion-battery-australia-1629336",
+        "title": "Elon Musk reveals plans to build the world's largest lithium ion battery in Australia.",
+        "source": "IB Times Technology",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.4590556,
+                "strength": 2.5358582,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.4875,
+                "strength": 1.8103037,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.48749998,
+                "strength": 1.7408495,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.4875,
+                "strength": 1.6915021,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.4875,
+                "strength": 1.623965,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": 0.40000007,
+                "strength": 0.82408994,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.12633781,
+                "strength": 0.64882994,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.12633781,
+                "strength": 0.64882994,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "Innovation",
+                "score": 0.3826528,
+                "strength": 0.4728998,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.4,
+                "strength": 6,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 1.3166666,
+                "strength": 5,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.23733279,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_ExecPerformance3",
+                "score": 0.51666665,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Invent3",
+                "score": 0.8181111,
+                "strength": 2,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Shortage1d",
+                "score": -0.38077834,
+                "strength": 2,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers",
+                "score": 0.270563,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_JoinAppointed5",
+                "score": -0.58,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Customers_High",
+                "score": 0.270563,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0.4,
+                "strength": 1,
+                "polarity": "neutral"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 88.90238799502796,
+            "ProductIntegrityAndInnovation": 92.01276733836288
+        },
+        "sasb2Cats": {
+            "EnvironmentalSocialImpactsOnAssetsAndOperations": 0,
+            "EnergyManagement": 92.00764751953301,
+            "LifecycleImpactsOfProductsAndServices": 88.34014486573557
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    },
+    {
+        "GUID": "elonmusksaysteslaisbuildingthelargestbatterysystemintheworldwithin100daysoritsfreecnbc",
+        "pubDate": "2017-07-07T07:50:00.000Z",
+        "authors": [
+            {
+                "fullName": "Arjun Kharpal",
+                "email": "Arjun Kharpal"
+            }
+        ],
+        "url": "http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNEAJIHaB8jb7grvjp-1fwz9o7JBsw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779549052695&ei=xEpfWYDoB8qPhAG78bfABA&url=http://www.cnbc.com/2017/07/07/tesla-largest-battery-system-in-the-world-elon-musk-says.html",
+        "title": "Elon Musk says Tesla is building the largest battery system in the world within 100 days — or it's free - CNBC.",
+        "source": "cnbc",
+        "sourceType": "FEED",
+        "nlp2Raw": [
+            {
+                "type": "Concept",
+                "title": "RenewEnergyPlus",
+                "score": 0.07753093,
+                "strength": 2.5660052,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "SusEnergy",
+                "score": 0.07753092,
+                "strength": 1.8179212,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "GreenhouseGas",
+                "score": 0.07753093,
+                "strength": 1.7576714,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "FossilFuelEnvEffects",
+                "score": 0.07753093,
+                "strength": 1.728797,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "EnvImpactEnergyInd",
+                "score": 0.07753092,
+                "strength": 1.6831162,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "WasteDisposal",
+                "score": -0.2839837,
+                "strength": 0.8160361,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA",
+                "score": 0.28864086,
+                "strength": 0.4655236,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Concept",
+                "title": "MAndA_Low",
+                "score": 0.2886409,
+                "strength": 0.4655236,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_FuelPower1a",
+                "score": 0.46884066,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_BatteryPerformance1a",
+                "score": 0.4,
+                "strength": 3,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_CleanEnergy1a",
+                "score": 0.769225,
+                "strength": 3,
+                "polarity": "positive"
+            },
+            {
+                "type": "Query",
+                "title": "Q_UsePhase1a",
+                "score": 0,
+                "strength": 1,
+                "polarity": "neutral"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents3",
+                "score": -0.50694895,
+                "strength": 1,
+                "polarity": "negative"
+            },
+            {
+                "type": "Query",
+                "title": "Q_Residents2a",
+                "score": -0.50694895,
+                "strength": 1,
+                "polarity": "negative"
+            }
+        ],
+        "tvl2Cats": {
+            "SustainableEnergyUseAndProduction": 53.857343814148464
+        },
+        "sasb2Cats": {
+            "EnergyManagement": 81.24471534616026,
+            "LifecycleImpactsOfProductsAndServices": 75.15771401067337
+        },
+        "ISIN": "US88160R1014",
+        "TICKER": "TSLA",
+        "companyName": "Tesla",
+        "sector": "ConsumerDurables",
+        "SICSSector": "Transportation",
+        "SICSIndustry": "Automobiles"
+    }
+]

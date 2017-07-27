@@ -1,0 +1,1426 @@
+{
+    "ISIN": "US88160R1014",
+    "CUSIP": "88160R101",
+    "SEDOL": "B616C79",
+    "TICKER": "TSLA",
+    "companyName": "Tesla",
+    "mode": "Insight360 API",
+    "firstPulseDate": {
+        "OverallScore": {
+            "value": 63.034099812718814,
+            "hourMs": 1420675200000,
+            "date": "2015-01-08T00:00:00.000Z"
+        },
+        "AntiCompetitiveBehavior": {
+            "value": 46.06751726868975,
+            "hourMs": 1421107200000,
+            "date": "2015-01-13T00:00:00.000Z"
+        },
+        "BusinessModel": {
+            "value": 68.75353292732802,
+            "hourMs": 1420675200000,
+            "date": "2015-01-08T00:00:00.000Z"
+        },
+        "CorporateGovernance": {
+            "value": 70.78546880155609,
+            "hourMs": 1423526400000,
+            "date": "2015-02-10T00:00:00.000Z"
+        },
+        "DataSecurityAndPrivacy": {
+            "value": 30.377320357789863,
+            "hourMs": 1429920000000,
+            "date": "2015-04-25T00:00:00.000Z"
+        },
+        "EnvironmentAtmosphere": {
+            "value": 45.71133620842918,
+            "hourMs": 1430870400000,
+            "date": "2015-05-06T00:00:00.000Z"
+        },
+        "EnvironmentLand": {
+            "value": 71.06751724339695,
+            "hourMs": 1447286400000,
+            "date": "2015-11-12T00:00:00.000Z"
+        },
+        "EnvironmentWater": {
+            "value": 58.75347619461494,
+            "hourMs": 1436400000000,
+            "date": "2015-07-09T00:00:00.000Z"
+        },
+        "HumanCapital": {
+            "value": 46.06751726868975,
+            "hourMs": 1421107200000,
+            "date": "2015-01-13T00:00:00.000Z"
+        },
+        "MarketingPractices": {
+            "value": 54.03552130358482,
+            "hourMs": 1437436800000,
+            "date": "2015-07-21T00:00:00.000Z"
+        },
+        "PoliticalInfluence": {
+            "value": 25,
+            "hourMs": 1426636800000,
+            "date": "2015-03-18T00:00:00.000Z"
+        },
+        "ProductIntegrityAndInnovation": {
+            "value": 50.79761679175021,
+            "hourMs": 1420675200000,
+            "date": "2015-01-08T00:00:00.000Z"
+        },
+        "SocialImpact": {
+            "value": 46.06751726868975,
+            "hourMs": 1421107200000,
+            "date": "2015-01-13T00:00:00.000Z"
+        },
+        "SupplyChain": {
+            "value": 60.93573369725008,
+            "hourMs": 1438732800000,
+            "date": "2015-08-05T00:00:00.000Z"
+        },
+        "SustainableEnergyUseAndProduction": {
+            "value": 70.6636738176331,
+            "hourMs": 1421020800000,
+            "date": "2015-01-12T00:00:00.000Z"
+        }
+    },
+    "firstInsightDate": {
+        "OverallScore": {
+            "date": "2015-01-22T00:00:00.000Z",
+            "hourMs": 1421884800000,
+            "value": 64.72470662207985
+        },
+        "AntiCompetitiveBehavior": {
+            "date": "2015-01-27T00:00:00.000Z",
+            "hourMs": 1422316800000,
+            "value": 46.06751726868975
+        },
+        "BusinessModel": {
+            "date": "2015-01-22T00:00:00.000Z",
+            "hourMs": 1421884800000,
+            "value": 73.02213673892908
+        },
+        "CorporateGovernance": {
+            "date": "2015-02-24T00:00:00.000Z",
+            "hourMs": 1424736000000,
+            "value": 81.29479844958668
+        },
+        "DataSecurityAndPrivacy": {
+            "date": "2015-05-09T00:00:00.000Z",
+            "hourMs": 1431129600000,
+            "value": 30.377320357789863
+        },
+        "EnvironmentAtmosphere": {
+            "date": "2015-05-20T00:00:00.000Z",
+            "hourMs": 1432080000000,
+            "value": 45.71133620842918
+        },
+        "EnvironmentLand": {
+            "date": "2015-11-26T00:00:00.000Z",
+            "hourMs": 1448496000000,
+            "value": 71.06751724339695
+        },
+        "EnvironmentWater": {
+            "date": "2015-07-23T00:00:00.000Z",
+            "hourMs": 1437609600000,
+            "value": 58.75347619461494
+        },
+        "HumanCapital": {
+            "date": "2015-01-27T00:00:00.000Z",
+            "hourMs": 1422316800000,
+            "value": 46.06751726868975
+        },
+        "MarketingPractices": {
+            "date": "2015-08-04T00:00:00.000Z",
+            "hourMs": 1438646400000,
+            "value": 54.03552130358482
+        },
+        "PoliticalInfluence": {
+            "date": "2015-04-01T00:00:00.000Z",
+            "hourMs": 1427846400000,
+            "value": 25
+        },
+        "ProductIntegrityAndInnovation": {
+            "date": "2015-01-22T00:00:00.000Z",
+            "hourMs": 1421884800000,
+            "value": 65.42973950651094
+        },
+        "SocialImpact": {
+            "date": "2015-01-27T00:00:00.000Z",
+            "hourMs": 1422316800000,
+            "value": 46.06751726868975
+        },
+        "SupplyChain": {
+            "date": "2015-08-19T00:00:00.000Z",
+            "hourMs": 1439942400000,
+            "value": 48.17261151250944
+        },
+        "SustainableEnergyUseAndProduction": {
+            "date": "2015-01-26T00:00:00.000Z",
+            "hourMs": 1422230400000,
+            "value": 70.6636738176331
+        }
+    },
+    "series": [
+        {
+            "hourMs": 1497916800000,
+            "date": "2017-06-20T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.179737994496186,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 59.167651720250866,
+                "CorporateGovernance": 53.272632511050574,
+                "DataSecurityAndPrivacy": 74.36459178063366,
+                "EnvironmentAtmosphere": 50.08397951300714,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 43.791324993990536,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 59.995373001805355,
+                "SocialImpact": 52.33183563951918,
+                "SupplyChain": 54.11999139415058,
+                "SustainableEnergyUseAndProduction": 71.52626074450465
+            },
+            "insight": {
+                "OverallScore": 59.53154821220518,
+                "AntiCompetitiveBehavior": 43.152301592337736,
+                "BusinessModel": 60.1241099880988,
+                "CorporateGovernance": 55.50429137946412,
+                "DataSecurityAndPrivacy": 52.12085477677159,
+                "EnvironmentAtmosphere": 54.649681392071706,
+                "EnvironmentLand": 64.45742433205034,
+                "EnvironmentWater": 59.57551399797304,
+                "HumanCapital": 48.860550316134024,
+                "MarketingPractices": 38.34124409496649,
+                "PoliticalInfluence": 41.63004499125455,
+                "ProductIntegrityAndInnovation": 66.04990784863733,
+                "SocialImpact": 51.529015452031445,
+                "SupplyChain": 56.613893193481836,
+                "SustainableEnergyUseAndProduction": 72.76569960564268
+            }
+        },
+        {
+            "hourMs": 1498003200000,
+            "date": "2017-06-21T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.91723020983268,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 59.2927460312938,
+                "CorporateGovernance": 55.03180611987438,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 49.16437639388526,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 62.83630146192869,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 61.03673401706869,
+                "SocialImpact": 53.56383427854294,
+                "SupplyChain": 54.11999139415058,
+                "SustainableEnergyUseAndProduction": 72.44200541584193
+            },
+            "insight": {
+                "OverallScore": 59.52541177322583,
+                "AntiCompetitiveBehavior": 43.20581959604474,
+                "BusinessModel": 60.120949759331566,
+                "CorporateGovernance": 55.502495341161975,
+                "DataSecurityAndPrivacy": 51.963153608108776,
+                "EnvironmentAtmosphere": 54.62883033338621,
+                "EnvironmentLand": 64.42410393668234,
+                "EnvironmentWater": 59.46976924618135,
+                "HumanCapital": 48.84117714931536,
+                "MarketingPractices": 38.43435612407555,
+                "PoliticalInfluence": 41.68640937077451,
+                "ProductIntegrityAndInnovation": 66.0308514822553,
+                "SocialImpact": 51.536750323069604,
+                "SupplyChain": 56.60441322968932,
+                "SustainableEnergyUseAndProduction": 72.76446916056261
+            }
+        },
+        {
+            "hourMs": 1498089600000,
+            "date": "2017-06-22T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.67799303147223,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 60.7272551661191,
+                "CorporateGovernance": 54.004965394137656,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 52.01726582160153,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 68.43200805443627,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 61.79776198101756,
+                "SocialImpact": 54.2042771423346,
+                "SupplyChain": 52.84244798637198,
+                "SustainableEnergyUseAndProduction": 72.76916763330784
+            },
+            "insight": {
+                "OverallScore": 59.522190516081274,
+                "AntiCompetitiveBehavior": 43.259134164020026,
+                "BusinessModel": 60.12325448251878,
+                "CorporateGovernance": 55.49680284369483,
+                "DataSecurityAndPrivacy": 51.80605190225134,
+                "EnvironmentAtmosphere": 54.618903103284296,
+                "EnvironmentLand": 64.39091020072881,
+                "EnvironmentWater": 59.36442645745753,
+                "HumanCapital": 48.821877624899145,
+                "MarketingPractices": 38.548384933965586,
+                "PoliticalInfluence": 41.742559494754346,
+                "ProductIntegrityAndInnovation": 66.01476041755781,
+                "SocialImpact": 51.54689028033216,
+                "SupplyChain": 56.59011302977571,
+                "SustainableEnergyUseAndProduction": 72.76448702066902
+            }
+        },
+        {
+            "hourMs": 1498176000000,
+            "date": "2017-06-23T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.77518653138822,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 60.476636088713306,
+                "CorporateGovernance": 52.707838648603584,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 52.01726582160153,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 65.91702884110401,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 59.55494391582998,
+                "SocialImpact": 52.13727989483668,
+                "SupplyChain": 52.84244798637198,
+                "SustainableEnergyUseAndProduction": 72.76916763330784
+            },
+            "insight": {
+                "OverallScore": 59.51554970347001,
+                "AntiCompetitiveBehavior": 43.31224606957526,
+                "BusinessModel": 60.12459777712347,
+                "CorporateGovernance": 55.48620127165411,
+                "DataSecurityAndPrivacy": 51.64954738048659,
+                "EnvironmentAtmosphere": 54.60901360914374,
+                "EnvironmentLand": 64.35784264272466,
+                "EnvironmentWater": 59.25948410383632,
+                "HumanCapital": 48.80265146295162,
+                "MarketingPractices": 38.652420206468925,
+                "PoliticalInfluence": 41.79849617763461,
+                "ProductIntegrityAndInnovation": 65.99020498936929,
+                "SocialImpact": 51.54913450348901,
+                "SupplyChain": 56.57586718860928,
+                "SustainableEnergyUseAndProduction": 72.76450481288457
+            }
+        },
+        {
+            "hourMs": 1498262400000,
+            "date": "2017-06-24T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.80844506618711,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 60.755339257572885,
+                "CorporateGovernance": 52.484209314013945,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 52.01726582160153,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 65.91702884110401,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 59.85138331918629,
+                "SocialImpact": 51.25887855070108,
+                "SupplyChain": 52.84244798637198,
+                "SustainableEnergyUseAndProduction": 73.08550469719106
+            },
+            "insight": {
+                "OverallScore": 59.5090605585663,
+                "AntiCompetitiveBehavior": 43.36515608308255,
+                "BusinessModel": 60.12699538812752,
+                "CorporateGovernance": 55.47478992615868,
+                "DataSecurityAndPrivacy": 51.4936377727638,
+                "EnvironmentAtmosphere": 54.599161707520416,
+                "EnvironmentLand": 64.32490078303496,
+                "EnvironmentWater": 59.154940663160644,
+                "HumanCapital": 48.783498384603135,
+                "MarketingPractices": 38.756060014075956,
+                "PoliticalInfluence": 41.85422023075996,
+                "ProductIntegrityAndInnovation": 65.96686974530408,
+                "SocialImpact": 51.548031165769885,
+                "SupplyChain": 56.56167549955842,
+                "SustainableEnergyUseAndProduction": 72.76572501621473
+            }
+        },
+        {
+            "hourMs": 1498348800000,
+            "date": "2017-06-25T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.06814952574477,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 61.01357560815257,
+                "CorporateGovernance": 52.80747030996097,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 52.01726582160153,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 67.84034675611294,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 60.11054904116139,
+                "SocialImpact": 51.936205040505364,
+                "SupplyChain": 51.96356339960145,
+                "SustainableEnergyUseAndProduction": 73.08550469719106
+            },
+            "insight": {
+                "OverallScore": 59.50358328419124,
+                "AntiCompetitiveBehavior": 43.417864971985644,
+                "BusinessModel": 60.130365508148785,
+                "CorporateGovernance": 55.46465075652842,
+                "DataSecurityAndPrivacy": 51.3383208176613,
+                "EnvironmentAtmosphere": 54.589347255515484,
+                "EnvironmentLand": 64.29208414384802,
+                "EnvironmentWater": 59.05079461905953,
+                "HumanCapital": 48.764418112044076,
+                "MarketingPractices": 38.866616887373716,
+                "PoliticalInfluence": 41.90973246239091,
+                "ProductIntegrityAndInnovation": 65.94460836025374,
+                "SocialImpact": 51.54950671475849,
+                "SupplyChain": 56.54419688984203,
+                "SustainableEnergyUseAndProduction": 72.7669405812374
+            }
+        },
+        {
+            "hourMs": 1498435200000,
+            "date": "2017-06-26T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.3003597745882,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 61.50506139434344,
+                "CorporateGovernance": 52.65350793327545,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 52.01726582160153,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 67.84034675611294,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 60.6008479841928,
+                "SocialImpact": 52.370741598796535,
+                "SupplyChain": 51.96356339960145,
+                "SustainableEnergyUseAndProduction": 73.08550469719106
+            },
+            "insight": {
+                "OverallScore": 59.499009521379726,
+                "AntiCompetitiveBehavior": 43.470373500811014,
+                "BusinessModel": 60.13559108167792,
+                "CorporateGovernance": 55.453964877803294,
+                "DataSecurityAndPrivacy": 51.183594262353665,
+                "EnvironmentAtmosphere": 54.57957011077328,
+                "EnvironmentLand": 64.25939224916839,
+                "EnvironmentWater": 58.94704446092613,
+                "HumanCapital": 48.745410368520865,
+                "MarketingPractices": 38.97675350548896,
+                "PoliticalInfluence": 41.965033677715596,
+                "ProductIntegrityAndInnovation": 65.92429534917427,
+                "SocialImpact": 51.55262844030836,
+                "SupplyChain": 56.52678472082803,
+                "SustainableEnergyUseAndProduction": 72.76815152558399
+            }
+        },
+        {
+            "hourMs": 1498521600000,
+            "date": "2017-06-27T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.547989459071665,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 61.55175471409769,
+                "CorporateGovernance": 52.65350793327545,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 52.01726582160153,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.76403553556405,
+                "MarketingPractices": 67.84034675611294,
+                "PoliticalInfluence": 56.457868238212605,
+                "ProductIntegrityAndInnovation": 61.41644950653801,
+                "SocialImpact": 52.9969829685261,
+                "SupplyChain": 51.96356339960145,
+                "SustainableEnergyUseAndProduction": 73.08550469719106
+            },
+            "insight": {
+                "OverallScore": 59.49539444890211,
+                "AntiCompetitiveBehavior": 43.522682431178985,
+                "BusinessModel": 60.14097428480293,
+                "CorporateGovernance": 55.44331961885856,
+                "DataSecurityAndPrivacy": 51.029455862579034,
+                "EnvironmentAtmosphere": 54.569830131479286,
+                "EnvironmentLand": 64.22682462481005,
+                "EnvironmentWater": 58.8436886838958,
+                "HumanCapital": 48.72647487833194,
+                "MarketingPractices": 39.086471465919985,
+                "PoliticalInfluence": 42.02012467886139,
+                "ProductIntegrityAndInnovation": 65.90715986477714,
+                "SocialImpact": 51.55811880429733,
+                "SupplyChain": 56.50943873995819,
+                "SustainableEnergyUseAndProduction": 72.76935786681886
+            }
+        },
+        {
+            "hourMs": 1498608000000,
+            "date": "2017-06-28T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.10751515802764,
+                "AntiCompetitiveBehavior": 57.23132643490584,
+                "BusinessModel": 60.02936594376154,
+                "CorporateGovernance": 54.13998913351127,
+                "DataSecurityAndPrivacy": 10.63427983908663,
+                "EnvironmentAtmosphere": 55.105159731129476,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 45.17188111742951,
+                "MarketingPractices": 71.71968406767074,
+                "PoliticalInfluence": 60.721062889147106,
+                "ProductIntegrityAndInnovation": 62.22049640166501,
+                "SocialImpact": 53.59788471171367,
+                "SupplyChain": 55.444578796610266,
+                "SustainableEnergyUseAndProduction": 72.91668372396184
+            },
+            "insight": {
+                "OverallScore": 59.49179311824713,
+                "AntiCompetitiveBehavior": 43.57479252181475,
+                "BusinessModel": 60.1463370249848,
+                "CorporateGovernance": 55.43271482528796,
+                "DataSecurityAndPrivacy": 50.87590338260658,
+                "EnvironmentAtmosphere": 54.56012717635804,
+                "EnvironmentLand": 64.19438079838947,
+                "EnvironmentWater": 58.74072578882428,
+                "HumanCapital": 48.70761136682375,
+                "MarketingPractices": 39.195772360092604,
+                "PoliticalInfluence": 42.075006264906605,
+                "ProductIntegrityAndInnovation": 65.8900895167746,
+                "SocialImpact": 51.563588297997086,
+                "SupplyChain": 56.4921586956343,
+                "SustainableEnergyUseAndProduction": 72.77055962243966
+            }
+        },
+        {
+            "hourMs": 1498694400000,
+            "date": "2017-06-29T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.36097089154303,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 61.26044019088687,
+                "CorporateGovernance": 53.35926823775577,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 56.423033824082815,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 45.17188111742951,
+                "MarketingPractices": 71.71968406767074,
+                "PoliticalInfluence": 58.64710995275139,
+                "ProductIntegrityAndInnovation": 62.90027061402199,
+                "SocialImpact": 52.64996620767345,
+                "SupplyChain": 55.444578796610266,
+                "SustainableEnergyUseAndProduction": 73.14869064624655
+            },
+            "insight": {
+                "OverallScore": 59.491168115293604,
+                "AntiCompetitiveBehavior": 43.63332643750184,
+                "BusinessModel": 60.149396735485475,
+                "CorporateGovernance": 55.425778521312075,
+                "DataSecurityAndPrivacy": 50.790008164254516,
+                "EnvironmentAtmosphere": 54.56720856487703,
+                "EnvironmentLand": 64.16206029931877,
+                "EnvironmentWater": 58.63815428226593,
+                "HumanCapital": 48.69417114445679,
+                "MarketingPractices": 39.31940413479263,
+                "PoliticalInfluence": 42.138001104145566,
+                "ProductIntegrityAndInnovation": 65.8787244441996,
+                "SocialImpact": 51.567717900554605,
+                "SupplyChain": 56.48817657431935,
+                "SustainableEnergyUseAndProduction": 72.77199699596235
+            }
+        },
+        {
+            "hourMs": 1498780800000,
+            "date": "2017-06-30T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.42052875616324,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 61.455670738001935,
+                "CorporateGovernance": 53.35926823775577,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 56.423033824082815,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 44.06996530296159,
+                "MarketingPractices": 73.06741449722817,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 63.14314599636114,
+                "SocialImpact": 53.31380538037351,
+                "SupplyChain": 55.444578796610266,
+                "SustainableEnergyUseAndProduction": 73.14869064624655
+            },
+            "insight": {
+                "OverallScore": 59.49067320207474,
+                "AntiCompetitiveBehavior": 43.691637850682426,
+                "BusinessModel": 60.15362009814232,
+                "CorporateGovernance": 55.41792318287404,
+                "DataSecurityAndPrivacy": 50.70443945577551,
+                "EnvironmentAtmosphere": 54.57426303521232,
+                "EnvironmentLand": 64.12986265879888,
+                "EnvironmentWater": 58.535972676452104,
+                "HumanCapital": 48.68078201184061,
+                "MarketingPractices": 39.44256595323853,
+                "PoliticalInfluence": 42.200756483757345,
+                "ProductIntegrityAndInnovation": 65.86740257319596,
+                "SocialImpact": 51.57183180542798,
+                "SupplyChain": 56.4842095900743,
+                "SustainableEnergyUseAndProduction": 72.77342890565765
+            }
+        },
+        {
+            "hourMs": 1498867200000,
+            "date": "2017-07-01T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.57540176188777,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 61.42308978135284,
+                "CorporateGovernance": 53.35926823775577,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 55.397328830774875,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 44.06996530296159,
+                "MarketingPractices": 73.06741449722817,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 64.13633388235446,
+                "SocialImpact": 53.31380538037351,
+                "SupplyChain": 50.36438711487155,
+                "SustainableEnergyUseAndProduction": 73.76848082377101
+            },
+            "insight": {
+                "OverallScore": 59.49018017014863,
+                "AntiCompetitiveBehavior": 43.74972760714589,
+                "BusinessModel": 60.157827406708705,
+                "CorporateGovernance": 55.41009770460291,
+                "DataSecurityAndPrivacy": 50.61919601602135,
+                "EnvironmentAtmosphere": 54.581290689686874,
+                "EnvironmentLand": 64.09778740981278,
+                "EnvironmentWater": 58.43417948926953,
+                "HumanCapital": 48.6674437747699,
+                "MarketingPractices": 39.5652596018552,
+                "PoliticalInfluence": 42.26327331398973,
+                "ProductIntegrityAndInnovation": 65.85612373954335,
+                "SocialImpact": 51.575930072288166,
+                "SupplyChain": 56.480257685359256,
+                "SustainableEnergyUseAndProduction": 72.77485537229498
+            }
+        },
+        {
+            "hourMs": 1498953600000,
+            "date": "2017-07-02T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.514522895863095,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 61.6697978623101,
+                "CorporateGovernance": 53.86185184896077,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 55.397328830774875,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 44.06996530296159,
+                "MarketingPractices": 73.06741449722817,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 63.29182186572656,
+                "SocialImpact": 53.31380538037351,
+                "SupplyChain": 50.36438711487155,
+                "SustainableEnergyUseAndProduction": 73.76848082377101
+            },
+            "insight": {
+                "OverallScore": 59.489689012364,
+                "AntiCompetitiveBehavior": 43.80759654946659,
+                "BusinessModel": 60.16201872221038,
+                "CorporateGovernance": 55.40230197299249,
+                "DataSecurityAndPrivacy": 50.53427660856173,
+                "EnvironmentAtmosphere": 54.588291630234686,
+                "EnvironmentLand": 64.06583408711869,
+                "EnvironmentWater": 58.332773244238844,
+                "HumanCapital": 48.65415623977756,
+                "MarketingPractices": 39.6874868602769,
+                "PoliticalInfluence": 42.32555250163042,
+                "ProductIntegrityAndInnovation": 65.8448877796457,
+                "SocialImpact": 51.58001276057928,
+                "SupplyChain": 56.47632080285304,
+                "SustainableEnergyUseAndProduction": 72.7762764165648
+            }
+        },
+        {
+            "hourMs": 1499040000000,
+            "date": "2017-07-03T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.461528158088996,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 60.12862371725733,
+                "CorporateGovernance": 53.36161874990014,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 54.90334490758459,
+                "EnvironmentLand": 55.691800772574084,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 44.06996530296159,
+                "MarketingPractices": 73.06741449722817,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 61.487782040934306,
+                "SocialImpact": 52.02673220735086,
+                "SupplyChain": 50.36438711487155,
+                "SustainableEnergyUseAndProduction": 73.32234586786393
+            },
+            "insight": {
+                "OverallScore": 59.48578070784535,
+                "AntiCompetitiveBehavior": 43.865245517016,
+                "BusinessModel": 60.16189177918564,
+                "CorporateGovernance": 55.394544809870794,
+                "DataSecurityAndPrivacy": 50.449680001666366,
+                "EnvironmentAtmosphere": 54.589489228978465,
+                "EnvironmentLand": 64.03400222724332,
+                "EnvironmentWater": 58.23175247049314,
+                "HumanCapital": 48.63673054799184,
+                "MarketingPractices": 39.81437257224841,
+                "PoliticalInfluence": 42.38100787048754,
+                "ProductIntegrityAndInnovation": 65.82832529725196,
+                "SocialImpact": 51.5817108563832,
+                "SupplyChain": 56.45308776694125,
+                "SustainableEnergyUseAndProduction": 72.77835216735333
+            }
+        },
+        {
+            "hourMs": 1499126400000,
+            "date": "2017-07-04T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.080307438825805,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 60.098259194946266,
+                "CorporateGovernance": 54.1867286980662,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 54.90334490758459,
+                "EnvironmentLand": 23.769320401713312,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 40.35268394163947,
+                "MarketingPractices": 73.06741449722817,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 62.003742817605506,
+                "SocialImpact": 52.02673220735086,
+                "SupplyChain": 50.36438711487155,
+                "SustainableEnergyUseAndProduction": 73.32234586786393
+            },
+            "insight": {
+                "OverallScore": 59.48043814154814,
+                "AntiCompetitiveBehavior": 43.92267534597495,
+                "BusinessModel": 60.16164989532527,
+                "CorporateGovernance": 55.38995358939411,
+                "DataSecurityAndPrivacy": 50.365404968287066,
+                "EnvironmentAtmosphere": 54.59068227534062,
+                "EnvironmentLand": 63.880945789365285,
+                "EnvironmentWater": 58.13111570275668,
+                "HumanCapital": 48.605240750797414,
+                "MarketingPractices": 39.940775958911196,
+                "PoliticalInfluence": 42.43625243918844,
+                "ProductIntegrityAndInnovation": 65.8137870730772,
+                "SocialImpact": 51.5834024972871,
+                "SupplyChain": 56.429943045789614,
+                "SustainableEnergyUseAndProduction": 72.78042002767789
+            }
+        },
+        {
+            "hourMs": 1499212800000,
+            "date": "2017-07-05T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.06909482109844,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 58.80063424457044,
+                "CorporateGovernance": 51.94974324266896,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 57.38192115240919,
+                "EnvironmentLand": 23.769320401713312,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 36.951733128970304,
+                "MarketingPractices": 73.06741449722817,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 61.285984229045646,
+                "SocialImpact": 51.51990315055519,
+                "SupplyChain": 54.11879090125924,
+                "SustainableEnergyUseAndProduction": 73.32234586786393
+            },
+            "insight": {
+                "OverallScore": 59.471377431180436,
+                "AntiCompetitiveBehavior": 43.979886869345734,
+                "BusinessModel": 60.156043364161555,
+                "CorporateGovernance": 55.37687646280703,
+                "DataSecurityAndPrivacy": 50.281450286039984,
+                "EnvironmentAtmosphere": 54.60129249403407,
+                "EnvironmentLand": 63.72847115847326,
+                "EnvironmentWater": 58.030861481323605,
+                "HumanCapital": 48.56094276346673,
+                "MarketingPractices": 40.06669885370813,
+                "PoliticalInfluence": 42.49128700903889,
+                "ProductIntegrityAndInnovation": 65.79657572697182,
+                "SocialImpact": 51.585087707827746,
+                "SupplyChain": 56.417698726618944,
+                "SustainableEnergyUseAndProduction": 72.78248002753216
+            }
+        },
+        {
+            "hourMs": 1499299200000,
+            "date": "2017-07-06T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.47681900746451,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 58.80231144646373,
+                "CorporateGovernance": 53.16347065341777,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 56.346673446551165,
+                "EnvironmentLand": 23.769320401713312,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 37.52351922169765,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 62.39220964131741,
+                "SocialImpact": 52.3215035802147,
+                "SupplyChain": 51.47219254348141,
+                "SustainableEnergyUseAndProduction": 73.43665720535667
+            },
+            "insight": {
+                "OverallScore": 59.46379560031446,
+                "AntiCompetitiveBehavior": 44.03688091696417,
+                "BusinessModel": 60.15089748008224,
+                "CorporateGovernance": 55.368462736598254,
+                "DataSecurityAndPrivacy": 50.19781473718786,
+                "EnvironmentAtmosphere": 54.60792713708154,
+                "EnvironmentLand": 63.57657612296889,
+                "EnvironmentWater": 57.93098835203678,
+                "HumanCapital": 48.51898667058179,
+                "MarketingPractices": 40.198369445144,
+                "PoliticalInfluence": 42.54611237829866,
+                "ProductIntegrityAndInnovation": 65.78363485366353,
+                "SocialImpact": 51.58788701444372,
+                "SupplyChain": 56.39889958241672,
+                "SustainableEnergyUseAndProduction": 72.78496672366484
+            }
+        },
+        {
+            "hourMs": 1499385600000,
+            "date": "2017-07-07T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.969666274691555,
+                "AntiCompetitiveBehavior": 58.97335741603586,
+                "BusinessModel": 57.53718702736777,
+                "CorporateGovernance": 52.602966345438574,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 60.60707484383103,
+                "EnvironmentLand": 23.769320401713312,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 37.599436871017275,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 62.79107729247119,
+                "SocialImpact": 52.51538777344349,
+                "SupplyChain": 47.443954990377534,
+                "SustainableEnergyUseAndProduction": 68.93962361007344
+            },
+            "insight": {
+                "OverallScore": 59.458842625596716,
+                "AntiCompetitiveBehavior": 44.09365831551168,
+                "BusinessModel": 60.141309105496745,
+                "CorporateGovernance": 55.357950371731455,
+                "DataSecurityAndPrivacy": 50.11449710862237,
+                "EnvironmentAtmosphere": 54.63073144439677,
+                "EnvironmentLand": 63.42525847966064,
+                "EnvironmentWater": 57.83149486626668,
+                "HumanCapital": 48.48708256470372,
+                "MarketingPractices": 40.32953952271053,
+                "PoliticalInfluence": 42.600729342193134,
+                "ProductIntegrityAndInnovation": 65.77219900638845,
+                "SocialImpact": 51.591412683985006,
+                "SupplyChain": 56.36485952898747,
+                "SustainableEnergyUseAndProduction": 72.77070268343682
+            }
+        },
+        {
+            "hourMs": 1499472000000,
+            "date": "2017-07-08T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.55554438038922,
+                "AntiCompetitiveBehavior": 43.59315654791196,
+                "BusinessModel": 57.53718702736777,
+                "CorporateGovernance": 51.431780903088494,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 60.60707484383103,
+                "EnvironmentLand": 23.769320401713312,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 37.599436871017275,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 62.854278524939545,
+                "SocialImpact": 51.288603589267225,
+                "SupplyChain": 47.443954990377534,
+                "SustainableEnergyUseAndProduction": 67.97737644878087
+            },
+            "insight": {
+                "OverallScore": 59.45346873485842,
+                "AntiCompetitiveBehavior": 44.150219888527246,
+                "BusinessModel": 60.13279055182808,
+                "CorporateGovernance": 55.343025989217274,
+                "DataSecurityAndPrivacy": 50.031496191846536,
+                "EnvironmentAtmosphere": 54.6534490666598,
+                "EnvironmentLand": 63.274516033731906,
+                "EnvironmentWater": 57.73237958089042,
+                "HumanCapital": 48.4456958160396,
+                "MarketingPractices": 40.46021098898999,
+                "PoliticalInfluence": 42.65513869292485,
+                "ProductIntegrityAndInnovation": 65.76326618711629,
+                "SocialImpact": 51.59492495154726,
+                "SupplyChain": 56.33094887057855,
+                "SustainableEnergyUseAndProduction": 72.75526286260391
+            }
+        },
+        {
+            "hourMs": 1499558400000,
+            "date": "2017-07-09T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.98726201095659,
+                "AntiCompetitiveBehavior": 43.59315654791196,
+                "BusinessModel": 57.690138635247024,
+                "CorporateGovernance": 51.431780903088494,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 62.12780730412516,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 37.599436871017275,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 63.638847046215076,
+                "SocialImpact": 52.60114397928125,
+                "SupplyChain": 47.443954990377534,
+                "SustainableEnergyUseAndProduction": 68.15997906262527
+            },
+            "insight": {
+                "OverallScore": 59.44880303081325,
+                "AntiCompetitiveBehavior": 44.14810234713064,
+                "BusinessModel": 60.12486010770153,
+                "CorporateGovernance": 55.328158338129285,
+                "DataSecurityAndPrivacy": 49.948810782957175,
+                "EnvironmentAtmosphere": 54.68186102958572,
+                "EnvironmentLand": 63.101553551071596,
+                "EnvironmentWater": 57.633641058270776,
+                "HumanCapital": 48.40446638907874,
+                "MarketingPractices": 40.59038573933245,
+                "PoliticalInfluence": 42.709341219684966,
+                "ProductIntegrityAndInnovation": 65.7572592294849,
+                "SocialImpact": 51.60261047492935,
+                "SupplyChain": 56.29716711532611,
+                "SustainableEnergyUseAndProduction": 72.73764393754998
+            }
+        },
+        {
+            "hourMs": 1499644800000,
+            "date": "2017-07-10T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.022131257664505,
+                "AntiCompetitiveBehavior": 43.59315654791196,
+                "BusinessModel": 57.9925858634383,
+                "CorporateGovernance": 51.98126129658622,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 62.12780730412516,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 40.48511674147126,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 56.91424157283655,
+                "ProductIntegrityAndInnovation": 65.98204825522582,
+                "SocialImpact": 54.801480466169274,
+                "SupplyChain": 47.443954990377534,
+                "SustainableEnergyUseAndProduction": 67.43638710824354
+            },
+            "insight": {
+                "OverallScore": 59.44695507158981,
+                "AntiCompetitiveBehavior": 44.145992855054885,
+                "BusinessModel": 60.119125112038056,
+                "CorporateGovernance": 55.315435919476066,
+                "DataSecurityAndPrivacy": 49.86643968262745,
+                "EnvironmentAtmosphere": 54.71016499131452,
+                "EnvironmentLand": 62.9292485434063,
+                "EnvironmentWater": 57.53527786623536,
+                "HumanCapital": 48.374362899061715,
+                "MarketingPractices": 40.720065661883254,
+                "PoliticalInfluence": 42.76333770866473,
+                "ProductIntegrityAndInnovation": 65.75907960396738,
+                "SocialImpact": 51.61147606355159,
+                "SupplyChain": 56.26351377323602,
+                "SustainableEnergyUseAndProduction": 72.71539389329541
+            }
+        },
+        {
+            "hourMs": 1499731200000,
+            "date": "2017-07-11T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.04327596171094,
+                "AntiCompetitiveBehavior": 43.59315654791196,
+                "BusinessModel": 58.79013753031123,
+                "CorporateGovernance": 51.98126129658622,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 61.11688589815113,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 42.369596434886134,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 65.0484056732545,
+                "SocialImpact": 55.10218881898826,
+                "SupplyChain": 50.54203526039086,
+                "SustainableEnergyUseAndProduction": 66.86169265812259
+            },
+            "insight": {
+                "OverallScore": 59.44586437584378,
+                "AntiCompetitiveBehavior": 44.143891381702446,
+                "BusinessModel": 60.113987271978914,
+                "CorporateGovernance": 55.30276186201663,
+                "DataSecurityAndPrivacy": 49.7843816960895,
+                "EnvironmentAtmosphere": 54.734518589456144,
+                "EnvironmentLand": 62.75759851150404,
+                "EnvironmentWater": 57.43728857805585,
+                "HumanCapital": 48.35153723340071,
+                "MarketingPractices": 40.84925263761044,
+                "PoliticalInfluence": 42.80956658622083,
+                "ProductIntegrityAndInnovation": 65.75885865484409,
+                "SocialImpact": 51.62474516281625,
+                "SupplyChain": 56.2417649581239,
+                "SustainableEnergyUseAndProduction": 72.69314246552207
+            }
+        },
+        {
+            "hourMs": 1499817600000,
+            "date": "2017-07-12T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.18596990023245,
+                "AntiCompetitiveBehavior": 43.59315654791196,
+                "BusinessModel": 59.11529169158253,
+                "CorporateGovernance": 52.20516434410561,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 61.11688589815113,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 41.43059782465834,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 65.0484056732545,
+                "SocialImpact": 55.10218881898826,
+                "SupplyChain": 53.16363073508112,
+                "SustainableEnergyUseAndProduction": 67.22049451918672
+            },
+            "insight": {
+                "OverallScore": 59.445449109435486,
+                "AntiCompetitiveBehavior": 44.14179789659208,
+                "BusinessModel": 60.11136868075972,
+                "CorporateGovernance": 55.29098709513469,
+                "DataSecurityAndPrivacy": 49.70263563311705,
+                "EnvironmentAtmosphere": 54.758779613291644,
+                "EnvironmentLand": 62.586600965633046,
+                "EnvironmentWater": 57.33967177242727,
+                "HumanCapital": 48.32522895814197,
+                "MarketingPractices": 40.977948540331994,
+                "PoliticalInfluence": 42.85561973589322,
+                "ProductIntegrityAndInnovation": 65.75785440639862,
+                "SocialImpact": 51.637963822813155,
+                "SupplyChain": 56.23006417624437,
+                "SustainableEnergyUseAndProduction": 72.67233951955428
+            }
+        },
+        {
+            "hourMs": 1499904000000,
+            "date": "2017-07-13T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.22913343009432,
+                "AntiCompetitiveBehavior": 43.59315654791196,
+                "BusinessModel": 58.36300820262634,
+                "CorporateGovernance": 53.16899400645187,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 57.88529131740294,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.30703885094062,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 65.88010387834974,
+                "SocialImpact": 55.523171999742694,
+                "SupplyChain": 53.16363073508112,
+                "SustainableEnergyUseAndProduction": 66.59036211470463
+            },
+            "insight": {
+                "OverallScore": 59.44462683776126,
+                "AntiCompetitiveBehavior": 44.13971236935843,
+                "BusinessModel": 60.10472271176711,
+                "CorporateGovernance": 55.28292085224811,
+                "DataSecurityAndPrivacy": 49.6212003080082,
+                "EnvironmentAtmosphere": 54.77066429045087,
+                "EnvironmentLand": 62.416253425525674,
+                "EnvironmentWater": 57.242426033447416,
+                "HumanCapital": 48.30615352360281,
+                "MarketingPractices": 41.10615523674303,
+                "PoliticalInfluence": 42.90149782566888,
+                "ProductIntegrityAndInnovation": 65.75831910816358,
+                "SocialImpact": 51.65273250089565,
+                "SupplyChain": 56.21840787205381,
+                "SustainableEnergyUseAndProduction": 72.64922035519892
+            }
+        },
+        {
+            "hourMs": 1499990400000,
+            "date": "2017-07-14T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 59.46848687069263,
+                "AntiCompetitiveBehavior": 55.84042590953573,
+                "BusinessModel": 58.45342446528744,
+                "CorporateGovernance": 53.16899400645187,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 57.88529131740294,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 45.88248028901532,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 65.86835510168672,
+                "SocialImpact": 55.4752226874884,
+                "SupplyChain": 53.16363073508112,
+                "SustainableEnergyUseAndProduction": 66.56395547655673
+            },
+            "insight": {
+                "OverallScore": 59.444717535898754,
+                "AntiCompetitiveBehavior": 44.18418979855682,
+                "BusinessModel": 60.09844570134454,
+                "CorporateGovernance": 55.27488527123063,
+                "DataSecurityAndPrivacy": 49.54007453956821,
+                "EnvironmentAtmosphere": 54.782503790887745,
+                "EnvironmentLand": 62.24655342034241,
+                "EnvironmentWater": 57.145549950596255,
+                "HumanCapital": 48.29694051669334,
+                "MarketingPractices": 41.23387458644287,
+                "PoliticalInfluence": 42.947201520995634,
+                "ProductIntegrityAndInnovation": 65.75873738334776,
+                "SocialImpact": 51.66726277172503,
+                "SupplyChain": 56.20679587648106,
+                "SustainableEnergyUseAndProduction": 72.626088694308
+            }
+        },
+        {
+            "hourMs": 1500076800000,
+            "date": "2017-07-15T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.67504172802075,
+                "AntiCompetitiveBehavior": 55.84042590953573,
+                "BusinessModel": 57.38215567547939,
+                "CorporateGovernance": 52.881878938026325,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 57.88529131740294,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.020206300356186,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 66.26504929573686,
+                "SocialImpact": 52.92884414985535,
+                "SupplyChain": 53.16363073508112,
+                "SustainableEnergyUseAndProduction": 66.56395547655673
+            },
+            "insight": {
+                "OverallScore": 59.441676722099864,
+                "AntiCompetitiveBehavior": 44.228498157578315,
+                "BusinessModel": 60.0881203825601,
+                "CorporateGovernance": 55.266880235528575,
+                "DataSecurityAndPrivacy": 49.459257151092366,
+                "EnvironmentAtmosphere": 54.794298286330644,
+                "EnvironmentLand": 62.07749848863604,
+                "EnvironmentWater": 57.04904211871554,
+                "HumanCapital": 48.27688228932969,
+                "MarketingPractices": 41.36110844196204,
+                "PoliticalInfluence": 42.99273148479173,
+                "ProductIntegrityAndInnovation": 65.76003815548243,
+                "SocialImpact": 51.67118714859558,
+                "SupplyChain": 56.19522802109764,
+                "SustainableEnergyUseAndProduction": 72.60304496282461
+            }
+        },
+        {
+            "hourMs": 1500163200000,
+            "date": "2017-07-16T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 58.567412684674004,
+                "AntiCompetitiveBehavior": 55.84042590953573,
+                "BusinessModel": 56.05661604700958,
+                "CorporateGovernance": 52.881878938026325,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 57.91515355319244,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 42.13258555155194,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 67.26181287007529,
+                "SocialImpact": 52.7841748841845,
+                "SupplyChain": 53.16363073508112,
+                "SustainableEnergyUseAndProduction": 66.79694637402045
+            },
+            "insight": {
+                "OverallScore": 59.43835341906439,
+                "AntiCompetitiveBehavior": 44.272638089102244,
+                "BusinessModel": 60.07279559505618,
+                "CorporateGovernance": 55.25781423062353,
+                "DataSecurityAndPrivacy": 49.3787469703489,
+                "EnvironmentAtmosphere": 54.80616146191337,
+                "EnvironmentLand": 61.909086178315945,
+                "EnvironmentWater": 56.95290113798838,
+                "HumanCapital": 48.25352623312081,
+                "MarketingPractices": 41.48785864878909,
+                "PoliticalInfluence": 43.03808837745553,
+                "ProductIntegrityAndInnovation": 65.76574678840564,
+                "SocialImpact": 51.675417901962746,
+                "SupplyChain": 56.18370413811531,
+                "SustainableEnergyUseAndProduction": 72.58097448498445
+            }
+        },
+        {
+            "hourMs": 1500249600000,
+            "date": "2017-07-17T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.71813300206071,
+                "AntiCompetitiveBehavior": 52.666168536996715,
+                "BusinessModel": 54.60121953841202,
+                "CorporateGovernance": 54.68416290155438,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 57.01168352580967,
+                "EnvironmentLand": 17.773134787550596,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 42.13258555155194,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 66.76564444651328,
+                "SocialImpact": 49.863320143648785,
+                "SupplyChain": 53.16363073508112,
+                "SustainableEnergyUseAndProduction": 66.63283472085439
+            },
+            "insight": {
+                "OverallScore": 59.43181714665741,
+                "AntiCompetitiveBehavior": 44.31661023336496,
+                "BusinessModel": 60.049541380242346,
+                "CorporateGovernance": 55.255633634005584,
+                "DataSecurityAndPrivacy": 49.29854282956201,
+                "EnvironmentAtmosphere": 54.817979542506784,
+                "EnvironmentLand": 61.74131404661254,
+                "EnvironmentWater": 56.85712561391893,
+                "HumanCapital": 48.230258959303946,
+                "MarketingPractices": 41.614127045397424,
+                "PoliticalInfluence": 43.08327285687503,
+                "ProductIntegrityAndInnovation": 65.76954765722799,
+                "SocialImpact": 51.67193893720668,
+                "SupplyChain": 56.17222406038363,
+                "SustainableEnergyUseAndProduction": 72.55710709402241
+            }
+        },
+        {
+            "hourMs": 1500336000000,
+            "date": "2017-07-18T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.34549663625091,
+                "AntiCompetitiveBehavior": 52.666168536996715,
+                "BusinessModel": 54.90787365182244,
+                "CorporateGovernance": 53.6620101257989,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 58.001808994975434,
+                "EnvironmentLand": 33.897274638920976,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 44.56314862125672,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 65.30752084154129,
+                "SocialImpact": 47.23258073826238,
+                "SupplyChain": 58.23493488356314,
+                "SustainableEnergyUseAndProduction": 67.48971366836254
+            },
+            "insight": {
+                "OverallScore": 59.42300192673301,
+                "AntiCompetitiveBehavior": 44.34834905741296,
+                "BusinessModel": 60.028963102260796,
+                "CorporateGovernance": 55.247227438762565,
+                "DataSecurityAndPrivacy": 49.21864356539491,
+                "EnvironmentAtmosphere": 54.83008209920691,
+                "EnvironmentLand": 61.63547167323074,
+                "EnvironmentWater": 56.76171415731222,
+                "HumanCapital": 48.21184707434372,
+                "MarketingPractices": 41.739915463271906,
+                "PoliticalInfluence": 43.12828557843742,
+                "ProductIntegrityAndInnovation": 65.76779137416783,
+                "SocialImpact": 51.65506379200277,
+                "SupplyChain": 56.16919583221693,
+                "SustainableEnergyUseAndProduction": 72.53784462498271
+            }
+        },
+        {
+            "hourMs": 1500422400000,
+            "date": "2017-07-19T00:00:00.000Z",
+            "pulse": {
+                "OverallScore": 57.76971688738358,
+                "AntiCompetitiveBehavior": 52.666168536996715,
+                "BusinessModel": 55.20155792421501,
+                "CorporateGovernance": 53.71887427447336,
+                "DataSecurityAndPrivacy": 28.27937830186218,
+                "EnvironmentAtmosphere": 58.001808994975434,
+                "EnvironmentLand": 33.897274638920976,
+                "EnvironmentWater": 31.7571559815357,
+                "HumanCapital": 43.16132407998399,
+                "MarketingPractices": 74.70538863014953,
+                "PoliticalInfluence": 54.924806195413915,
+                "ProductIntegrityAndInnovation": 65.57862696091021,
+                "SocialImpact": 48.036010004555706,
+                "SupplyChain": 62.72465416945468,
+                "SustainableEnergyUseAndProduction": 68.46105181059774
+            },
+            "insight": {
+                "OverallScore": 59.41486186142125,
+                "AntiCompetitiveBehavior": 44.379967234006884,
+                "BusinessModel": 60.008347464073985,
+                "CorporateGovernance": 55.238944036155885,
+                "DataSecurityAndPrivacy": 49.13904801893296,
+                "EnvironmentAtmosphere": 54.84213865096838,
+                "EnvironmentLand": 61.53003163400165,
+                "EnvironmentWater": 56.66666538425394,
+                "HumanCapital": 48.192648734163434,
+                "MarketingPractices": 41.86522572693547,
+                "PoliticalInfluence": 43.17312719503861,
+                "ProductIntegrityAndInnovation": 65.76604176719243,
+                "SocialImpact": 51.63825279357704,
+                "SupplyChain": 56.18549602282953,
+                "SustainableEnergyUseAndProduction": 72.52120218231012
+            }
+        }
+    ],
+    "momentum": {
+        "OverallScore": {
+            "raw": -0.004023667268411363,
+            "refined": 37.4612795870911,
+            "ums": {
+                "ISIN": "US1392091005",
+                "rawSlope": 0.25764385346200325
+            }
+        },
+        "AntiCompetitiveBehavior": {
+            "raw": 0.04233329798859131,
+            "refined": 83.52959972396144,
+            "ums": {
+                "ISIN": "US30226D1063",
+                "rawSlope": 0.2665265121229784
+            }
+        },
+        "BusinessModel": {
+            "raw": -0.003991811173269537,
+            "refined": 37.65034066055408,
+            "ums": {
+                "ISIN": "KYG960071028",
+                "rawSlope": 0.2716149902850745
+            }
+        },
+        "CorporateGovernance": {
+            "raw": -0.009149908389939152,
+            "refined": 30.369652080595642,
+            "ums": {
+                "ISIN": "US21234W1036",
+                "rawSlope": 0.28106198188854237
+            }
+        },
+        "DataSecurityAndPrivacy": {
+            "raw": -0.10282092268409056,
+            "refined": 7.945738477889336,
+            "ums": {
+                "ISIN": "DE0005140008",
+                "rawSlope": 0.2467427930395053
+            }
+        },
+        "EnvironmentAtmosphere": {
+            "raw": 0.006636457203333585,
+            "refined": 66.77088396084265,
+            "ums": {
+                "ISIN": "US48248M1027",
+                "rawSlope": 0.28215380646625965
+            }
+        },
+        "EnvironmentLand": {
+            "raw": -0.10094457579478223,
+            "refined": 8.9272940648584,
+            "ums": {
+                "ISIN": "US2786421030",
+                "rawSlope": 0.2752183111201668
+            }
+        },
+        "EnvironmentWater": {
+            "raw": -0.1003051246110035,
+            "refined": 8.922739631579974,
+            "ums": {
+                "ISIN": "US0378331005",
+                "rawSlope": 0.2729276070362712
+            }
+        },
+        "HumanCapital": {
+            "raw": -0.023031089033468607,
+            "refined": 21.980894845199728,
+            "ums": {
+                "ISIN": "NL0011333752",
+                "rawSlope": 0.2698023016564288
+            }
+        },
+        "MarketingPractices": {
+            "raw": 0.12151660799893033,
+            "refined": 92.3832306815726,
+            "ums": {
+                "ISIN": "US98885E1038",
+                "rawSlope": 0.2879183806580418
+            }
+        },
+        "PoliticalInfluence": {
+            "raw": 0.053209731164967584,
+            "refined": 86.13761335170052,
+            "ums": {
+                "ISIN": "US9694571004",
+                "rawSlope": 0.24438871596330272
+            }
+        },
+        "ProductIntegrityAndInnovation": {
+            "raw": -0.009788485567065467,
+            "refined": 30.05196482768624,
+            "ums": {
+                "ISIN": "CNE1000004X4",
+                "rawSlope": 0.3042571697507589
+            }
+        },
+        "SocialImpact": {
+            "raw": 0.003766804880882546,
+            "refined": 61.51328638102299,
+            "ums": {
+                "ISIN": "US81663A1051",
+                "rawSlope": 0.31720577319161153
+            }
+        },
+        "SupplyChain": {
+            "raw": -0.01477231622938977,
+            "refined": 26.25188871988278,
+            "ums": {
+                "ISIN": "LU0445408270",
+                "rawSlope": 0.2898630450124161
+            }
+        },
+        "SustainableEnergyUseAndProduction": {
+            "raw": -0.008430945632157275,
+            "refined": 31.100328812735118,
+            "ums": {
+                "ISIN": "US8589121081",
+                "rawSlope": 0.28148210200964563
+            }
+        }
+    }
+}

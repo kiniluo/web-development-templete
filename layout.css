@@ -1,0 +1,152 @@
+body{
+    background-color: #242425;
+}
+
+.canvas{
+    width:50%;
+    height:600px;
+    margin-left: 5%;
+    margin-top:5%;
+    top:0;
+    background-color: #29292A; 
+    position:absolute;
+
+}
+
+.title{
+    width:80%;
+    height:100px;
+    margin-left:10%;
+    margin-top:5%;
+    top:0;
+    position:absolute;
+}
+
+.overlay{
+    fill: none;
+    pointer-events: all;
+}
+    
+
+
+.article{
+    width:25%;
+    margin-left:58%;
+    margin-top:5%;
+    top:0;
+    padding: 5%;
+    background-color: #29292A;
+    position:absolute;
+    
+}
+.sub{
+     font-size: 9px;
+     font-family: sans-serif;  
+     fill: #9B9B9B; 
+}
+
+
+
+
+
+
+
+
+p{
+     font-size: 12px;
+     font-family: sans-serif;  
+     line-height: 1.2;
+     top:10px;
+     color: #9B9B9B;
+    
+}
+h2{
+     color: #9B9B9B;
+     font-family: sans-serif;  
+}
+
+
+
+
+.axis text{
+     stroke:#5C5C5C;
+}
+.axis path{
+    stroke:#5C5C5C;
+}
+.axis line{
+    stroke:#5C5C5C;
+}
+
+.axis--y{
+    font-size: 8px;
+}
+.axis--x{
+    font-family: sans-serif; 
+    text-anchor: start;
+}
+.tick line{
+    stroke-dasharray:2,2;    
+}
+
+
+
+
+.legend{
+    font-size: 9px;
+    font-family: sans-serif;
+    
+}
+.legend2{
+    font-size: 9px;
+    font-family: sans-serif;
+    
+}
+
+
+
+
+.area {
+  fill: #6053B8;
+  clip-path: url(#clip);
+}
+
+.line{
+   fill:none;
+   stroke-width:1.5;
+   stroke:#6053B8;
+   stroke-linejoin: round;
+   stroke-linecap: round;	
+   clip-path: url(#clip);
+}
+
+
+
+.zoom {
+  cursor: move;
+  fill: none;
+  pointer-events: all;
+}
+
+rect.selection{
+    stroke:none;
+}
+rect.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+
+
+.focus{
+    display:inherit;
+    font-size: 9px;
+    font-family: sans-serif;
+    fill: #9B9B9B;
+}
+.focus circle { 
+  visibility: hidden;
+  fill:#6053B8;
+      
+}
+
